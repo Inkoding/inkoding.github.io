@@ -8,18 +8,18 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Aegisub Video Zoom Percent: 0.625000
-Aegisub Scroll Position: 250
-Aegisub Active Line: 260
+Aegisub Scroll Position: 0
+Aegisub Active Line: 846
 PlayResX: 1280
 PlayResY: 720
 Audio URI: ../../../../Desktop/Project K/Fated to Love You/Ep 2/fated02.avi
 Video File: ../../../../Desktop/Project K/Fated to Love You/Ep 2/fated02.avi
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 45911
+Aegisub Video Position: 107895
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,1.5,2,10,10,35,1
+Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,1.5,2,10,10,55,1
 Style: Episode Text l1,Tequilla Sunrise,53,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
 Style: Song,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,1.5,8,10,10,35,1
 Style: android phone title,Droid Sans,30,&H00ECD067,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -491,14 +491,14 @@ Dialogue: 0,0:26:15.77,0:26:20.04,Default,,0,0,0,,{\i1} I tried not to, but afte
 Dialogue: 0,0:26:20.04,0:26:23.94,Default,,0,0,0,,{\i1} My feelings were hurt as I went to Korea. {\i}
 Dialogue: 0,0:26:25.54,0:26:28.21,Default,,0,0,0,,{\i1} That's how I honestly felt. {\i}
 Dialogue: 0,0:26:32.68,0:26:38.06,Default,,0,0,0,,{\i1} Please let me do ballet just once more. {\i}
-Dialogue: 0,0:26:38.79,0:26:43.39,Default,,0,0,0,,{\i1} I don't want to marry with this feeling of defeat and failure. {\i}
-Dialogue: 0,0:26:44.23,0:26:49.30,Default,,0,0,0,,{\i1} After I{\i}
-Dialogue: 0,0:26:49.30,0:26:52.87,Default,,0,0,0,,{\i1} I will return to you, Gun. {\i}
+Dialogue: 0,0:26:38.79,0:26:42.18,Default,,0,0,0,,{\i1} I don't want to marry with this feeling of defeat and failure. {\i}
+Dialogue: 0,0:26:44.23,0:26:49.30,Default,,0,0,0,,{\i1} After doing best and being on the stage, without any regrets or attachment,{\i}
+Dialogue: 0,0:26:49.30,0:26:52.87,Default,,0,0,0,,{\i1} I will return to you with confidence. {\i}
 Dialogue: 0,0:26:55.91,0:26:57.64,Default,,0,0,0,,{\i1} I'm sorry. {\i}
 Dialogue: 0,0:26:58.58,0:27:00.68,Default,,0,0,0,,{\i1} Love you. {\i}
 Dialogue: 0,0:28:09.68,0:28:11.11,Default,,0,0,0,,Hey.
-Dialogue: 0,0:28:11.95,0:28:14.68,Default,,0,0,0,,How much were you told to get?
-Dialogue: 0,0:28:14.68,0:28:20.02,Default,,0,0,0,,No matter how much you like money, how could you plan such thing with your family?
+Dialogue: 0,0:28:11.95,0:28:14.68,Default,,0,0,0,,How much were you suppose to get?
+Dialogue: 0,0:28:14.68,0:28:20.02,Default,,0,0,0,,No matter how much you like money,\N how could you plan such thing with your family?
 Dialogue: 0,0:28:20.02,0:28:23.89,Default,,0,0,0,,It's nothing like that. I told you.
 Dialogue: 0,0:28:23.89,0:28:27.79,Default,,0,0,0,,I really have no idea what's going on.
 Dialogue: 0,0:28:27.79,0:28:29.83,Default,,0,0,0,,It was my first time seeing my brother-in-law at that room too.
@@ -513,9 +513,9 @@ Dialogue: 0,0:29:01.89,0:29:04.70,Default,,0,0,0,,Please believe me.
 Dialogue: 0,0:29:05.53,0:29:10.14,Default,,0,0,0,,Okay. Let's say I believe in what you're saying.
 Dialogue: 0,0:29:10.14,0:29:12.87,Default,,0,0,0,,But you're abandoned by those people.
 Dialogue: 0,0:29:12.87,0:29:17.54,Default,,0,0,0,,They left you here alone and ran away to save their lives.
-Dialogue: 0,0:29:17.54,0:29:23.55,Default,,0,0,0,,Whatever the reason is, the fact that you are abandoned by your family,
-Dialogue: 0,0:29:25.68,0:29:27.62,Default,,0,0,0,,won't change.
-Dialogue: 0,0:29:30.99,0:29:33.86,Default,,0,0,0,,There must have been a reason.
+Dialogue: 0,0:29:17.54,0:29:22.78,Default,,0,0,0,,Whatever the reason is, the fact that you are abandoned by your family,
+Dialogue: 0,0:29:25.68,0:29:26.76,Default,,0,0,0,,won't change.
+Dialogue: 0,0:29:30.99,0:29:33.12,Default,,0,0,0,,There must have been a reason.
 Dialogue: 0,0:29:33.86,0:29:38.00,Default,,0,0,0,,My brother-in-law and that company president are good people.
 Dialogue: 0,0:29:40.56,0:29:44.70,Default,,0,0,0,,Those good people would do such crazy things?
 Dialogue: 0,0:29:44.70,0:29:48.44,Default,,0,0,0,,Hey, just tell me the truth.\NYou came after me, didn't you?
@@ -540,8 +540,8 @@ Dialogue: 0,0:31:24.16,0:31:25.20,Default,,0,0,0,,Everyone go back.
 Dialogue: 0,0:31:25.20,0:31:27.10,Default,,0,0,0,,If there's any problem, give us a call.
 Dialogue: 0,0:31:27.10,0:31:29.47,Default,,0,0,0,,We'll be on standby.
 Dialogue: 0,0:31:34.14,0:31:39.45,Default,,0,0,0,,How could this make sense?
-Dialogue: 0,0:31:39.45,0:31:41.78,Default,,0,0,0,,Excuse me..
-Dialogue: 0,0:31:41.78,0:31:45.72,Default,,0,0,0,,I'm sorry that this happened, but
+Dialogue: 0,0:31:39.45,0:31:41.78,Default,,0,0,0,,Excuse me...
+Dialogue: 0,0:31:41.78,0:31:45.72,Default,,0,0,0,,I'm sorry that this happened, but,
 Dialogue: 0,0:31:45.72,0:31:49.16,Default,,0,0,0,,my brother-in-law and that company president,
 Dialogue: 0,0:31:49.16,0:31:52.13,Default,,0,0,0,,what will happen to them?
 Dialogue: 0,0:31:53.76,0:31:55.83,Default,,0,0,0,,They can't go to jail.
@@ -549,10 +549,10 @@ Dialogue: 0,0:31:55.83,0:32:00.37,Default,,0,0,0,,Could you please not send them
 Dialogue: 0,0:32:04.37,0:32:09.58,Default,,0,0,0,,How could you worry about others when you are like that?
 Dialogue: 0,0:32:11.91,0:32:15.55,Default,,0,0,0,,What am I doing here with a women like you?
 Dialogue: 0,0:32:15.55,0:32:19.55,Default,,0,0,0,,Anyways, it's not over yet so just keep that in mind.
-Dialogue: 0,0:33:07.00,0:33:08.07,Default,,0,0,0,,{\i1} Does it feel good? {\i}
+Dialogue: 0,0:33:07.00,0:33:08.07,Default,,0,0,0,,{\i1}Does it feel good? {\i}
 Dialogue: 0,0:33:08.07,0:33:10.70,Default,,0,0,0,,{\i1}Lover!{\i}
 Dialogue: 0,0:33:14.94,0:33:17.71,Default,,0,0,0,,{\i1}I think I'm doing well. Doesn't this feel good?{\i}
-Dialogue: 0,0:33:17.71,0:33:19.38,Default,,0,0,0,,There, there.\N-Here?
+Dialogue: 0,0:33:17.71,0:33:19.38,Default,,0,0,0,,- There, there.\N- Here?
 Dialogue: 0,0:33:19.38,0:33:22.21,Default,,0,0,0,,This is where it needs to be loosened up.
 Dialogue: 0,0:33:33.52,0:33:36.59,Default,,0,0,0,,Honey, you're here?
 Dialogue: 0,0:33:36.59,0:33:40.63,Default,,0,0,0,,Is she that woman who you told me about that is so into you?
@@ -579,7 +579,7 @@ Dialogue: 0,0:34:44.49,0:34:47.26,Default,,0,0,0,,Someone would think I stole yo
 Dialogue: 0,0:34:47.26,0:34:49.83,Default,,0,0,0,,It looks cheap anyways.
 Dialogue: 0,0:35:03.91,0:35:08.48,Default,,0,0,0,,Just throw that away.
 Dialogue: 0,0:35:21.06,0:35:23.53,Default,,0,0,0,,You can't do this.
-Dialogue: 0,0:35:25.30,0:35:26.47,Default,,0,0,0,,How could you..
+Dialogue: 0,0:35:25.30,0:35:26.47,Default,,0,0,0,,How could you...
 Dialogue: 0,0:35:26.47,0:35:30.00,Default,,0,0,0,,Why are you crying?
 Dialogue: 0,0:35:35.21,0:35:37.01,Default,,0,0,0,,Go.
 Dialogue: 0,0:35:37.91,0:35:40.18,Default,,0,0,0,,Get out of here.
@@ -588,7 +588,7 @@ Dialogue: 0,0:35:47.02,0:35:50.39,Default,,0,0,0,,Do you know how excited I was?
 Dialogue: 0,0:35:52.62,0:35:55.59,Default,,0,0,0,,You don't know how much I liked you.
 Dialogue: 0,0:35:55.59,0:35:57.93,Default,,0,0,0,,I think you've misunderstood.
 Dialogue: 0,0:35:57.93,0:36:00.87,Default,,0,0,0,,You think I'm your boyfriend or something?
-Dialogue: 0,0:36:00.87,0:36:04.54,Default,,0,0,0,,I was just being nice because you were innocent and cute. And now, you're all over me.
+Dialogue: 0,0:36:00.87,0:36:04.54,Default,,0,0,0,,I was just being nice because you were innocent and cute, and now, you're all over me.
 Dialogue: 0,0:36:04.54,0:36:06.70,Default,,0,0,0,,You're funny.
 Dialogue: 0,0:36:09.31,0:36:11.01,Default,,0,0,0,,Don't delude yourself.
 Dialogue: 0,0:36:11.01,0:36:13.61,Default,,0,0,0,,You're just a post-it girl just like your nickname.
@@ -597,7 +597,7 @@ Dialogue: 0,0:36:17.68,0:36:19.32,Default,,0,0,0,,I'm a lawyer.
 Dialogue: 0,0:36:19.32,0:36:22.62,Default,,0,0,0,,Do you think a lawyer would want to date an unemployed?
 Dialogue: 0,0:36:23.39,0:36:25.82,Default,,0,0,0,,How could a nobleman go out with a peasant?
 Dialogue: 0,0:36:25.82,0:36:27.89,Default,,0,0,0,,Does that make any sense?
-Dialogue: 0,0:36:27.89,0:36:31.60,Default,,0,0,0,,Let's not do this, (nastily)...
+Dialogue: 0,0:36:27.89,0:36:31.60,Default,,0,0,0,,Let's not do this, nastily...
 Dialogue: 0,0:36:39.90,0:36:41.97,Default,,0,0,0,,Wear this.
 Dialogue: 0,0:36:48.34,0:36:50.21,Default,,0,0,0,,Get up.
 Dialogue: 0,0:36:52.42,0:36:54.75,Default,,0,0,0,,There is no need to talk to a thing like him.
@@ -616,15 +616,15 @@ Dialogue: 0,0:37:40.56,0:37:44.30,Default,,0,0,0,,Is it expensive?
 Dialogue: 0,0:37:45.17,0:37:47.77,Default,,0,0,0,,It's mine.
 Dialogue: 0,0:37:47.77,0:37:50.27,Default,,0,0,0,,This is mine.
 Dialogue: 0,0:37:50.27,0:37:54.84,Default,,0,0,0,,This is just mine.
-Dialogue: 0,0:37:58.98,0:38:05.19,Default,,0,0,0,,In my life, I was never lucky with contest, but was chosen
+Dialogue: 0,0:37:58.98,0:38:05.19,Default,,0,0,0,,In my life, I was never lucky with contest, but I was chosen
 Dialogue: 0,0:38:05.19,0:38:07.92,Default,,0,0,0,,...I'm even able to travel
 Dialogue: 0,0:38:09.46,0:38:11.79,Default,,0,0,0,,Finally...
 Dialogue: 0,0:38:11.79,0:38:14.86,Default,,0,0,0,,Luck comes to me too.
-Dialogue: 0,0:38:16.56,0:38:18.77,Default,,0,0,0,,Just...I
-Dialogue: 0,0:38:18.77,0:38:23.07,Default,,0,0,0,,I just wanted, with my whole heart, to someone
+Dialogue: 0,0:38:16.56,0:38:18.77,Default,,0,0,0,,Just... I
+Dialogue: 0,0:38:18.77,0:38:23.07,Default,,0,0,0,,I just wanted, with my whole heart, to someone,
 Dialogue: 0,0:38:23.07,0:38:26.17,Default,,0,0,0,,I only wanted to love someone with all my heart.
 Dialogue: 0,0:38:27.34,0:38:29.58,Default,,0,0,0,,I really tried.
-Dialogue: 0,0:38:29.58,0:38:33.38,Default,,0,0,0,,But...now, what am I, really..
+Dialogue: 0,0:38:29.58,0:38:33.38,Default,,0,0,0,,But... now, what am I, really...
 Dialogue: 0,0:38:34.81,0:38:37.58,Default,,0,0,0,,Why are you crying?
 Dialogue: 0,0:38:37.58,0:38:40.02,Default,,0,0,0,,Why are you crying!? Who are you trying to please?!
 Dialogue: 0,0:38:40.02,0:38:41.92,Default,,0,0,0,,It's just coming so what am I suppose to do?!
@@ -648,7 +648,7 @@ Dialogue: 0,0:39:33.40,0:39:34.47,Default,,0,0,0,,Why?
 Dialogue: 0,0:39:34.47,0:39:37.57,Default,,0,0,0,,Why are people who hurt us so fine?
 Dialogue: 0,0:39:37.57,0:39:40.84,Default,,0,0,0,,Why are people who are hurt always the ones to hurt?
 Dialogue: 0,0:39:40.84,0:39:43.95,Default,,0,0,0,,Why is it driving me crazy?
-Dialogue: 0,0:39:46.28,0:39:48.89,Default,,0,0,0,,Follow me.\NWhere?
+Dialogue: 0,0:39:46.28,0:39:48.89,Default,,0,0,0,,- Follow me.\N- Where?
 Dialogue: 0,0:39:48.89,0:39:53.42,Default,,0,0,0,,From now on, you are no longer post-it.\NYou are crazy glue.
 Dialogue: 0,0:39:53.42,0:39:57.46,Default,,0,0,0,,Once you are removed, the body and skin will be hurt even more.
 Dialogue: 0,0:39:57.46,0:40:01.33,Default,,0,0,0,,I'll show you how great you are.
@@ -665,27 +665,20 @@ Dialogue: 0,0:40:25.62,0:40:29.22,Default,,0,0,0,,This is the worst part. Get ri
 Dialogue: 0,0:40:29.22,0:40:31.56,Default,,0,0,0,,Use all the material you can possibly use,
 Dialogue: 0,0:40:31.56,0:40:33.96,Default,,0,0,0,,and transform her as a whole
 Dialogue: 0,0:40:33.96,0:40:35.80,Default,,0,0,0,,Okay, let's go.
-Dialogue: 0,0:40:35.80,0:40:37.60,Default,,0,0,0,,Oh, wait..
+Dialogue: 0,0:40:35.80,0:40:37.60,Default,,0,0,0,,Oh, wait...
 Dialogue: 0,0:40:37.60,0:40:40.44,Default,,0,0,0,,Change everything
 Dialogue: 0,0:40:40.44,0:40:44.84,Default,,0,0,0,,I think I'm ok. I did dress up today.
-Dialogue: 0,0:40:46.04,0:40:49.18,Default,,0,0,0,,(oh baby, I wanna be beside you)
-Dialogue: 0,0:40:49.18,0:40:51.45,Default,,0,0,0,,(like a lie, )
-Dialogue: 0,0:40:51.45,0:40:54.92,Default,,0,0,0,,(I'm crying because of you)
-Dialogue: 0,0:40:54.92,0:40:59.62,Default,,0,0,0,,(Oh just wanna be with you, can you hear my heart)
-Dialogue: 0,0:40:59.62,0:41:05.39,Default,,0,0,0,,(My love shines through the pain)
 Dialogue: 0,0:41:08.46,0:41:10.90,Default,,0,0,0,,Your eye is big
 Dialogue: 0,0:41:14.70,0:41:17.40,Default,,0,0,0,,Put more eye shadow on her eye lids
 Dialogue: 0,0:41:18.44,0:41:21.48,Default,,0,0,0,,It's really difficult.
 Dialogue: 0,0:41:24.78,0:41:29.18,Default,,0,0,0,,You are so short, it's hard to find a dress for you.
-Dialogue: 0,0:41:31.02,0:41:32.69,Default,,0,0,0,,(Love me...)
 Dialogue: 0,0:41:32.69,0:41:38.26,Default,,0,0,0,,Tell me that you love me,
-Dialogue: 0,0:41:38.26,0:41:44.13,Default,,0,0,0,,(The love I'm saying right now)
 Dialogue: 0,0:41:52.34,0:41:55.24,Default,,0,0,0,,I have created the best work of my life.
 Dialogue: 0,0:41:55.24,0:41:58.58,Default,,0,0,0,,You could say that she is a totally different woman now.
 Dialogue: 0,0:41:58.58,0:42:01.55,Default,,0,0,0,,I know, right? I thought we were magicians or something.
 Dialogue: 0,0:42:01.55,0:42:03.38,Default,,0,0,0,,I get it, so just show her to me.
 Dialogue: 0,0:42:03.38,0:42:06.15,Default,,0,0,0,,You prepared to double the money?
-Dialogue: 0,0:42:06.15,0:42:09.96,Default,,0,0,0,,Okay. Ready? Go!
+Dialogue: 0,0:42:06.15,0:42:09.96,Default,,0,0,0,,- Okay.\N  - Ready?\N- Go!
 Dialogue: 0,0:42:45.36,0:42:47.99,Default,,0,0,0,,Well, it's not bad.
 Dialogue: 0,0:42:56.33,0:42:58.34,Default,,0,0,0,,Have confidence.
 Dialogue: 0,0:42:58.34,0:43:01.71,Default,,0,0,0,,From now on, you are the queen.
@@ -693,15 +686,15 @@ Dialogue: 0,0:43:01.71,0:43:05.41,Default,,0,0,0,,No one will be able to look do
 Dialogue: 0,0:43:06.58,0:43:10.38,Default,,0,0,0,,Act naturally as if this is your house. Here.
 Dialogue: 0,0:44:18.25,0:44:21.28,Default,,0,0,0,,Why don't you wipe the drool off your face?
 Dialogue: 0,0:44:22.22,0:44:25.52,Default,,0,0,0,,What did he do to that country girl?
-Dialogue: 0,0:44:46.07,0:44:50.64,Default,,0,0,0,,{\i1}Call.\N-Call.{\i}
-Dialogue: 0,0:44:53.18,0:44:54.98,Default,,0,0,0,,{\i1} Flop. (means dealing of the first three face-up cards to the board){\i}
-Dialogue: 0,0:44:55.85,0:44:58.68,Default,,0,0,0,,{\i1}Raise.\N-Raise.{\i}
-Dialogue: 0,0:45:01.32,0:45:02.99,Default,,0,0,0,,{\i1} Fourth (street)\N(aka "turn" means the fourth of five cards dealt to a community card board){\i}
-Dialogue: 0,0:45:02.99,0:45:05.19,Default,,0,0,0,,River. {\i1} *means the final card dealt in a poker hand{\i}
-Dialogue: 0,0:45:06.23,0:45:09.03,Default,,0,0,0,,Raise.\N{\i1}- Raise.{\i}
+Dialogue: 0,0:44:46.07,0:44:50.64,Default,,0,0,0,,{\i1}- Call.\N- Call.{\i}
+Dialogue: 0,0:44:53.18,0:44:54.98,Default,,0,0,0,,{\i1} Flop.{\i}
+Dialogue: 0,0:44:55.85,0:44:58.68,Default,,0,0,0,,{\i1}- Raise.\N- Raise.{\i}
+Dialogue: 0,0:45:01.32,0:45:02.99,Default,,0,0,0,,{\i1} Fourth{\i}
+Dialogue: 0,0:45:02.99,0:45:05.19,Default,,0,0,0,,{\i1}River.{\i0}
+Dialogue: 0,0:45:06.23,0:45:09.03,Default,,0,0,0,,- Raise.\N{\i1}- Raise.{\i}
 Dialogue: 0,0:45:12.36,0:45:15.43,Default,,0,0,0,,{\i1}Raise. Card open{\i}
 Dialogue: 0,0:45:20.27,0:45:22.67,Default,,0,0,0,,{\i1}Jack, triple.{\i}
-Dialogue: 0,0:45:24.21,0:45:26.65,Default,,0,0,0,,Seven pair\Nokay
+Dialogue: 0,0:45:24.21,0:45:26.65,Default,,0,0,0,,- Seven pair\N- Okay
 Dialogue: 0,0:45:26.65,0:45:29.41,Default,,0,0,0,,How many is this?
 Dialogue: 0,0:45:30.22,0:45:36.55,Default,,0,0,0,,Now that I found my lucky goddess, I'm on a roll.
 Dialogue: 0,0:45:36.55,0:45:39.82,Default,,0,0,0,,Give me some luck.
@@ -711,9 +704,9 @@ Dialogue: 0,0:46:01.51,0:46:04.18,Default,,0,0,0,,Oh, what is that. That,
 Dialogue: 0,0:46:04.18,0:46:07.48,Default,,0,0,0,,I need to resist it.
 Dialogue: 0,0:46:07.48,0:46:10.75,Default,,0,0,0,,Mi Young must be suffering a lot right now.
 Dialogue: 0,0:46:10.75,0:46:14.36,Default,,0,0,0,,We can't eat to save our lives...
-Dialogue: 0,0:46:14.36,0:46:17.13,Default,,0,0,0,,Loyalty!\NThat's right.
-Dialogue: 0,0:46:17.13,0:46:22.03,Default,,0,0,0,,Our sister in law...that jerk is probably giving her a hard time.
-Dialogue: 0,0:46:27.37,0:46:30.37,Default,,0,0,0,,Aren't you nervous?\NYeah...
+Dialogue: 0,0:46:14.36,0:46:17.13,Default,,0,0,0,,- Loyalty!\N- That's right.
+Dialogue: 0,0:46:17.13,0:46:22.03,Default,,0,0,0,,Our sister in law... that jerk is probably giving her a hard time.
+Dialogue: 0,0:46:27.37,0:46:30.37,Default,,0,0,0,,- Aren't you nervous?\N- Yeah...
 Dialogue: 0,0:46:47.09,0:46:50.43,Default,,0,0,0,,I don't think we are going to win this time. Just end it.
 Dialogue: 0,0:46:51.16,0:46:54.16,Default,,0,0,0,,I can't do that as a man.
 Dialogue: 0,0:46:54.16,0:46:56.53,Default,,0,0,0,,Call.
@@ -728,15 +721,15 @@ Dialogue: 0,0:47:28.23,0:47:31.30,Default,,0,0,0,,Also, I'm kind of getting bore
 Dialogue: 0,0:47:43.31,0:47:45.85,Default,,0,0,0,,{\i1}Call.{\i}
 Dialogue: 0,0:47:45.85,0:47:48.08,Default,,0,0,0,,{\i1}Fold, raise.{\i}
 Dialogue: 0,0:47:48.08,0:47:49.38,Default,,0,0,0,,{\i1}Call.{\i}
-Dialogue: 0,0:47:49.38,0:47:51.59,Default,,0,0,0,,{\i1}Flop{\i}
-Dialogue: 0,0:47:55.16,0:47:57.02,Default,,0,0,0,,{\i1} Raise{\i}
+Dialogue: 0,0:47:49.38,0:47:51.59,Default,,0,0,0,,{\i1}Flop.{\i}
+Dialogue: 0,0:47:55.16,0:47:57.02,Default,,0,0,0,,{\i1} Raise.{\i}
 Dialogue: 0,0:47:57.02,0:47:59.06,Default,,0,0,0,,{\i1}Call.{\i}
 Dialogue: 0,0:48:02.06,0:48:04.60,Default,,0,0,0,,{\i1}Raise.{\i}
 Dialogue: 0,0:48:09.47,0:48:11.20,Default,,0,0,0,,{\i1}River.{\i}
 Dialogue: 0,0:48:20.05,0:48:21.88,Default,,0,0,0,,Wish me some luck.
 Dialogue: 0,0:48:21.88,0:48:23.95,Default,,0,0,0,,Ok.
 Dialogue: 0,0:48:27.22,0:48:29.32,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:48:39.53,0:48:42.20,Default,,0,0,0,,{\i1} All in {\i}\NOh.. This is too much...
+Dialogue: 0,0:48:39.53,0:48:42.20,Default,,0,0,0,,{\i1} - All in {\i}\NOh, This is too much...
 Dialogue: 0,0:48:44.84,0:48:46.60,Default,,0,0,0,,{\i1} Full house of Ace.{\i}
 Dialogue: 0,0:48:46.60,0:48:48.64,Default,,0,0,0,,{\i1}There is no way I'm losing.{\i}
 Dialogue: 0,0:48:48.64,0:48:53.18,Default,,0,0,0,,Even if you do that, I know it's all trickery. I can see right through you.
@@ -747,25 +740,24 @@ Dialogue: 0,0:49:08.43,0:49:10.90,Default,,0,0,0,,Such a show off. What's the la
 Dialogue: 0,0:49:10.90,0:49:12.43,Default,,0,0,0,,This one is,
 Dialogue: 0,0:49:12.43,0:49:16.17,Default,,0,0,0,,I'll tell you after you become desperate.
 Dialogue: 0,0:49:16.17,0:49:17.87,Default,,0,0,0,,Really?
-Dialogue: 0,0:49:17.87,0:49:20.44,Default,,0,0,0,,Oh.. you are so scary.
+Dialogue: 0,0:49:17.87,0:49:20.44,Default,,0,0,0,,Oh... you are so scary.
 Dialogue: 0,0:49:20.44,0:49:24.04,Default,,0,0,0,,But I guess I won't be hearing the third one.
 Dialogue: 0,0:49:24.04,0:49:26.78,Default,,0,0,0,,Will this be enough?
 Dialogue: 0,0:49:26.78,0:49:29.68,Default,,0,0,0,,All in.
 Dialogue: 0,0:49:32.95,0:49:34.95,Default,,0,0,0,,{\i1}Card open.{\i}
 Dialogue: 0,0:49:43.66,0:49:45.80,Default,,0,0,0,,{\i1}Ace. Full House.{\i}
-Dialogue: 0,0:50:14.59,0:50:17.29,Default,,0,0,0,,{\i1} Four of a kind of 8s. {\i}\N- Won, we won!!  - Really?!?!
-Dialogue: 0,0:50:17.29,0:50:19.16,Default,,0,0,0,,Omg!!
+Dialogue: 0,0:50:14.59,0:50:17.29,Default,,0,0,0,,{\i1}- Four of a kind of 8s. {\i}\N- Won, we won!!\N  - Really?!?!
 Dialogue: 0,0:50:19.16,0:50:20.63,Default,,0,0,0,,I'm so relieved!!
 Dialogue: 0,0:50:20.63,0:50:23.87,Default,,0,0,0,,I was so worried that\Nwe were going to lose due to my bad luck!
 Dialogue: 0,0:50:23.87,0:50:24.70,Default,,0,0,0,,I'm so relieved.
 Dialogue: 0,0:50:24.70,0:50:27.67,Default,,0,0,0,,What are you going to do?\NMy chips were also in there!
 Dialogue: 0,0:50:27.67,0:50:29.07,Default,,0,0,0,,Hand over my money now!
-Dialogue: 0,0:50:29.07,0:50:32.41,Default,,0,0,0,,What exactly are you good at?!\NYou weren't that great at night either..
+Dialogue: 0,0:50:29.07,0:50:32.41,Default,,0,0,0,,What exactly are you good at?!\NYou weren't that great at night either...
 Dialogue: 0,0:50:33.24,0:50:36.98,Default,,0,0,0,,Why are you changing your words?\NYou said you had a great time last night!
 Dialogue: 0,0:50:36.98,0:50:38.25,Default,,0,0,0,,You said there was no other white horse like me!
-Dialogue: 0,0:50:38.25,0:50:40.65,Default,,0,0,0,,White horse? Yeah right..
+Dialogue: 0,0:50:38.25,0:50:40.65,Default,,0,0,0,,White horse? Yeah right...
 Dialogue: 0,0:50:40.65,0:50:43.95,Default,,0,0,0,,Don't say such nonsense!
-Dialogue: 0,0:50:49.79,0:50:52.46,Default,,0,0,0,,Number 3 for a gambler is
+Dialogue: 0,0:50:49.79,0:50:52.46,Default,,0,0,0,,Number three for a gambler is,
 Dialogue: 0,0:50:52.96,0:50:56.66,Default,,0,0,0,,the ability to recognize your Lady Luck.
 Dialogue: 0,0:50:56.66,0:50:59.30,Default,,0,0,0,,Which is something you lacked.
 Dialogue: 0,0:51:01.80,0:51:04.27,Default,,0,0,0,,No! I want a rematch.
@@ -774,11 +766,10 @@ Dialogue: 0,0:51:05.74,0:51:07.84,Default,,0,0,0,,Just once. Just one more match
 Dialogue: 0,0:51:07.84,0:51:09.48,Default,,0,0,0,,You can't do this!
 Dialogue: 0,0:51:09.48,0:51:11.78,Default,,0,0,0,,Yes, I can~
 Dialogue: 0,0:51:11.78,0:51:17.32,Default,,0,0,0,,Don't be like this. You look low and cheap.\NI thought you were from a nobility..
-Dialogue: 0,0:51:18.55,0:51:19.89,Default,,0,0,0,,
 Dialogue: 0,0:51:21.22,0:51:24.89,Default,,0,0,0,,Why are you being like this, honey?\NYou shouldn't be like this to a fellow co-worker.
 Dialogue: 0,0:51:24.89,0:51:27.56,Default,,0,0,0,,How are you going to see my face tomorrow at work?
-Dialogue: 0,0:51:27.56,0:51:31.03,Default,,0,0,0,,Just once.. Let's just play one more time.
-Dialogue: 0,0:51:32.63,0:51:34.43,Default,,0,0,0,,Look here..
+Dialogue: 0,0:51:27.56,0:51:31.03,Default,,0,0,0,,Just once... Let's just play one more time.
+Dialogue: 0,0:51:32.63,0:51:34.43,Default,,0,0,0,,Look here...
 Dialogue: 0,0:51:34.43,0:51:39.20,Default,,0,0,0,,It seems like this was how much you started off with.\NRight here, right now, in front of this lady,
 Dialogue: 0,0:51:39.20,0:51:42.07,Default,,0,0,0,,if you get on your knees and sincerely apologize,
 Dialogue: 0,0:51:42.07,0:51:44.48,Default,,0,0,0,,I will return your money to you.
@@ -792,28 +783,28 @@ Dialogue: 0,0:52:38.83,0:52:42.50,Default,,0,0,0,,Even though you gave me a chan
 Dialogue: 0,0:52:43.53,0:52:46.17,Default,,0,0,0,,So why do you forgive someone like that?
 Dialogue: 0,0:52:46.17,0:52:48.17,Default,,0,0,0,,Because he's pitiful?
 Dialogue: 0,0:52:51.91,0:52:55.38,Default,,0,0,0,,Watching him kneel in front of money
-Dialogue: 0,0:52:57.11,0:53:01.52,Default,,0,0,0,,Not him, but I (looked) was pitiful.
+Dialogue: 0,0:52:57.11,0:53:01.52,Default,,0,0,0,,Not him, but I was pitiful.
 Dialogue: 0,0:53:02.79,0:53:05.72,Default,,0,0,0,,He's a bad person, it's true.
-Dialogue: 0,0:53:05.72,0:53:08.72,Default,,0,0,0,,but my feelings for him
+Dialogue: 0,0:53:05.72,0:53:08.72,Default,,0,0,0,,But my feelings for him,
 Dialogue: 0,0:53:08.72,0:53:10.99,Default,,0,0,0,,was real.
 Dialogue: 0,0:53:11.56,0:53:14.80,Default,,0,0,0,,Truth shouldn't become useless...
 Dialogue: 0,0:53:24.11,0:53:26.98,Default,,0,0,0,,You and I are similar.
 Dialogue: 0,0:53:28.44,0:53:33.38,Default,,0,0,0,,I as well, because Sera didn't come, became alone.
 Dialogue: 0,0:53:34.48,0:53:37.05,Default,,0,0,0,,I even prepared a proposal.
 Dialogue: 0,0:53:38.62,0:53:43.26,Default,,0,0,0,,Is your girlfriend's name Se Ra?
-Dialogue: 0,0:53:46.46,0:53:48.36,Default,,0,0,0,,{\i1} Se Ra..{\i}
+Dialogue: 0,0:53:46.46,0:53:48.36,Default,,0,0,0,,{\i1}Se Ra...{\i}
 Dialogue: 0,0:53:50.43,0:53:52.93,Default,,0,0,0,,{\i1} I love you, Se Ra.{\i}
-Dialogue: 0,0:53:54.30,0:53:56.04,Default,,0,0,0,,{\i1} Will you{\i}
+Dialogue: 0,0:53:54.30,0:53:56.04,Default,,0,0,0,,{\i1} Will you,{\i}
 Dialogue: 0,0:53:56.67,0:53:58.64,Default,,0,0,0,,{\i1} marry me?{\i}
-Dialogue: 0,0:53:59.11,0:54:02.21,Default,,0,0,0,,{\i1} If I propose, and things go wrong{\i}
+Dialogue: 0,0:53:59.11,0:54:02.21,Default,,0,0,0,,{\i1} If I propose, and things go wrong,{\i}
 Dialogue: 0,0:54:02.21,0:54:05.91,Default,,0,0,0,,{\i1} it'll all be your fault!{\i}
 Dialogue: 0,0:54:09.55,0:54:11.79,Default,,0,0,0,,I'm really sorry.
-Dialogue: 0,0:54:12.45,0:54:15.76,Default,,0,0,0,,Because of me.. your proposal didn't work out.
-Dialogue: 0,0:54:15.76,0:54:20.16,Default,,0,0,0,,I think it's like you said.. It didn't work out due to my bad luck.
+Dialogue: 0,0:54:12.45,0:54:15.76,Default,,0,0,0,,Because of me... your proposal didn't work out.
+Dialogue: 0,0:54:15.76,0:54:20.16,Default,,0,0,0,,I think it's like you said... It didn't work out due to my bad luck.
 Dialogue: 0,0:54:21.56,0:54:25.13,Default,,0,0,0,,No, I just said that because I was mad at the time.
 Dialogue: 0,0:54:25.13,0:54:27.93,Default,,0,0,0,,It's not really your fault.
-Dialogue: 0,0:54:33.31,0:54:37.41,Default,,0,0,0,,You know.. Those two men..
-Dialogue: 0,0:54:37.41,0:54:40.25,Default,,0,0,0,,My brother-in-law and the CEO guy..
+Dialogue: 0,0:54:33.31,0:54:37.41,Default,,0,0,0,,You know... Those two men...
+Dialogue: 0,0:54:37.41,0:54:40.25,Default,,0,0,0,,My brother-in-law and the CEO guy...
 Dialogue: 0,0:54:40.25,0:54:42.15,Default,,0,0,0,,what they did was bad,
 Dialogue: 0,0:54:42.15,0:54:45.02,Default,,0,0,0,,but it was because they were desperate,
 Dialogue: 0,0:54:45.02,0:54:48.25,Default,,0,0,0,,so can you just forgive them?
@@ -825,14 +816,14 @@ Dialogue: 0,0:55:00.90,0:55:03.87,Default,,0,0,0,,I'll tell the security not to 
 Dialogue: 0,0:55:05.54,0:55:07.51,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:55:07.51,0:55:09.64,Default,,0,0,0,,Oh right,
 Dialogue: 0,0:55:09.64,0:55:14.45,Default,,0,0,0,,my name is Gun. Lee Gun. It's a single character.
-Dialogue: 0,0:55:17.08,0:55:20.79,Default,,0,0,0,,My name is very ordinary and common..
+Dialogue: 0,0:55:17.08,0:55:20.79,Default,,0,0,0,,My name is very ordinary and common...
 Dialogue: 0,0:55:20.79,0:55:23.49,Default,,0,0,0,,Let's hear how common it is.
 Dialogue: 0,0:55:24.22,0:55:26.82,Default,,0,0,0,,- It's Kim Mi Young.\N- Kim Mi Young?
 Dialogue: 0,0:55:27.56,0:55:29.33,Default,,0,0,0,,What's wrong with Kim Mi Young?
 Dialogue: 0,0:55:29.33,0:55:32.40,Default,,0,0,0,,There's always someone with the same name wherever I go.
 Dialogue: 0,0:55:32.40,0:55:35.93,Default,,0,0,0,,There are 3 Kim Mi Youngs' at my office.
 Dialogue: 0,0:55:35.93,0:55:39.50,Default,,0,0,0,,Across the nation, there are even 20,000 more.
-Dialogue: 0,0:55:40.94,0:55:46.08,Default,,0,0,0,,Someone's name is "Mar" and "Kim" as their last.\NSo his name is "Kim Mar-ee". [seaweed rolls]
+Dialogue: 0,0:55:40.94,0:55:46.08,Default,,0,0,0,,Someone's name is "Mar" and "Kim" as their last.\NSo his name is "Kim Mar-ee". 
 Dialogue: 0,0:55:47.95,0:55:50.28,Default,,0,0,0,,Please be confident!
 Dialogue: 0,0:55:51.21,0:55:56.42,Default,,0,0,0,,Being that comman only proves\Nhow popular the name actually is.
 Dialogue: 0,0:55:58.12,0:56:03.13,Default,,0,0,0,,At first, I thought you were a weird person
@@ -847,7 +838,7 @@ Dialogue: 0,0:56:32.45,0:56:37.29,Default,,0,0,0,,you will always have hope and 
 Dialogue: 0,0:56:38.63,0:56:40.63,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:56:41.63,0:56:42.83,Default,,0,0,0,,Ah!
 Dialogue: 0,0:56:44.00,0:56:46.84,Default,,0,0,0,,This is my gift to you.
-Dialogue: 0,0:56:46.84,0:56:49.27,Default,,0,0,0,,This is...the dog...saliva
+Dialogue: 0,0:56:46.84,0:56:49.27,Default,,0,0,0,,This is... the dog... saliva...
 Dialogue: 0,0:56:49.27,0:56:53.04,Default,,0,0,0,,No. I bought another one.
 Dialogue: 0,0:56:53.04,0:56:57.91,Default,,0,0,0,,This is a candy that helps to fulfill love.
 Dialogue: 0,0:56:57.91,0:57:02.38,Default,,0,0,0,,The words of people who succeeded with this lollipop,\NI believe them.
@@ -857,30 +848,30 @@ Dialogue: 0,0:57:13.33,0:57:16.23,Default,,0,0,0,,Usually I don't believe in tha
 Dialogue: 0,0:57:16.23,0:57:18.10,Default,,0,0,0,,Give it to me.
 Dialogue: 0,0:57:19.97,0:57:21.40,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:57:32.91,0:57:34.78,Default,,0,0,0,,I'm going.
-Dialogue: 0,0:57:46.69,0:57:48.66,Default,,0,0,0,,Miss Kim Mi-Young
-Dialogue: 0,0:57:52.30,0:57:54.63,Default,,0,0,0,,Yesterday's event
+Dialogue: 0,0:57:46.69,0:57:48.66,Default,,0,0,0,,Miss Kim Mi-Young,
+Dialogue: 0,0:57:52.30,0:57:54.63,Default,,0,0,0,,Yesterday's event,
 Dialogue: 0,0:57:57.34,0:58:00.31,Default,,0,0,0,,Forget about it
 Dialogue: 0,0:58:02.54,0:58:04.38,Default,,0,0,0,,Of course.
 Dialogue: 0,0:58:05.08,0:58:07.91,Default,,0,0,0,,We're not going to see each other again.
 Dialogue: 0,0:58:09.72,0:58:13.35,Default,,0,0,0,,And it's not good for a person to be too nice.
-Dialogue: 0,0:58:13.35,0:58:16.66,Default,,0,0,0,,Be confident...and don't get intimidated.
+Dialogue: 0,0:58:13.35,0:58:16.66,Default,,0,0,0,,Be confident... and don't get intimidated.
 Dialogue: 0,0:58:16.66,0:58:20.23,Default,,0,0,0,,You know it?! To be resilient.
 Dialogue: 0,0:58:21.99,0:58:24.06,Default,,0,0,0,,I'll try.
 Dialogue: 0,0:58:24.60,0:58:26.53,Default,,0,0,0,,I'm going to go.
-Dialogue: 0,0:58:29.13,0:58:33.14,Default,,0,0,0,,{\i1}♫ I'm in love with you ♫{\i}
-Dialogue: 0,0:58:33.14,0:58:36.04,Default,,0,0,0,,{\i1}♫ Never felt this way ♫{\i}
-Dialogue: 0,0:58:36.04,0:58:44.85,Default,,0,0,0,,{\i1}♫ Do you know about my love ♫{\i}
-Dialogue: 0,0:58:44.85,0:58:51.59,Default,,0,0,0,,{\i1}♫ You steal my heart, forever more ♫{\i}
-Dialogue: 0,0:58:51.59,0:58:58.00,Default,,0,0,0,,{\i1}♫ Night will come tomorrow, I will wait ♫{\i}
-Dialogue: 0,0:58:58.00,0:59:04.53,Default,,0,0,0,,{\i1}♫ When I open my eyes, let me hear it ♫{\i}
-Dialogue: 0,0:59:04.53,0:59:12.34,Default,,0,0,0,,{\i1}♫ Words of Loving me, my melody ♫{\i}
-Dialogue: 0,0:59:33.16,0:59:35.03,Default,,0,0,0,,{\i1}Preview\NEpisode 3{\i}
+Dialogue: 0,0:58:29.13,0:58:33.14,Song,,0,0,0,,{\i1}♫ I'm in love with you ♫{\i}
+Dialogue: 0,0:58:33.14,0:58:36.04,Song,,0,0,0,,{\i1}♫ Never felt this way ♫{\i}
+Dialogue: 0,0:58:36.04,0:58:44.85,Song,,0,0,0,,{\i1}♫ Do you know about my love ♫{\i}
+Dialogue: 0,0:58:44.85,0:58:51.59,Song,,0,0,0,,{\i1}♫ You steal my heart, forever more ♫{\i}
+Dialogue: 0,0:58:51.59,0:58:58.00,Song,,0,0,0,,{\i1}♫ Night will come tomorrow, I will wait ♫{\i}
+Dialogue: 0,0:58:58.00,0:59:04.53,Song,,0,0,0,,{\i1}♫ When I open my eyes, let me hear it ♫{\i}
+Dialogue: 0,0:59:04.53,0:59:12.34,Song,,0,0,0,,{\i1}♫ Words of Loving me, my melody ♫{\i}
+Dialogue: 0,0:59:33.16,0:59:34.46,Default,,0,0,0,,{\i1}Preview\NEpisode 3{\i}
 Dialogue: 0,0:59:35.03,0:59:36.83,Default,,0,0,0,,Miss Kim Mi-Young
-Dialogue: 0,0:59:36.83,0:59:41.07,Default,,0,0,0,,I...I think I'm pregnant.
-Dialogue: 0,0:59:41.10,0:59:45.84,Default,,0,0,0,,Mom\NYou come here... Mi-Young!
+Dialogue: 0,0:59:36.83,0:59:41.07,Default,,0,0,0,,I... I think I'm pregnant.
+Dialogue: 0,0:59:41.10,0:59:45.84,Default,,0,0,0,,- Mom\N- You come here... Mi-Young!
 Dialogue: 0,0:59:45.84,0:59:47.98,Default,,0,0,0,,Really, it's interesting...
 Dialogue: 0,0:59:47.98,0:59:52.28,Default,,0,0,0,,Someone like you, who is normal and nothing. What's there to see?
 Dialogue: 0,0:59:53.02,0:59:55.35,Default,,0,0,0,,It's me, Gun
-Dialogue: 0,0:59:55.35,0:59:58.42,Default,,0,0,0,,Dad.\Nshush. Be quiet.
+Dialogue: 0,0:59:55.35,0:59:58.42,Default,,0,0,0,,- Dad.\NShush. Be quiet.
 Dialogue: 0,0:59:58.42,0:59:59.96,Default,,0,0,0,,Daddy!
 Dialogue: 0,0:59:59.96,1:00:02.02,Default,,0,0,0,,What?
