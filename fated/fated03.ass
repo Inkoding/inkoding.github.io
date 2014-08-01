@@ -5,22 +5,30 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
-Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+YCbCr Matrix: TV.601
+Aegisub Video Zoom Percent: 0.625000
+Aegisub Scroll Position: 401
+Aegisub Active Line: 406
+PlayResX: 1280
+PlayResY: 720
+Last Style Storage: Fated to Love You
+Audio URI: ../../../../Desktop/Project K/Fated to Love You/Ep 3/fated03.avi
+Video File: ../../../../Desktop/Project K/Fated to Love You/Ep 3/fated03.avi
+Aegisub Video Aspect Ratio: c1.777778
+Aegisub Video Position: 59192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,1.5,2,10,10,55,1
+Style: Episode Text l1,Tequilla Sunrise,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.73,0:00:07.59,Default,,0,0,0,,{\i1}When they're leaving, the two of them...{\i}
 Dialogue: 0,0:00:07.59,0:00:09.41,Default,,0,0,0,,{\i1}and when they come back, so that there will be three.{\i}
 Dialogue: 0,0:00:09.41,0:00:13.08,Default,,0,0,0,,{\i1}Please help.{\i}
-Dialogue: 0,0:00:13.82,0:00:16.54,Default,,0,0,0,,{\i1}Gun, fighting!{\b1}- What is this!!!{\i}
-Dialogue: 0,0:00:17.79,0:00:19.48,Default,,0,0,0,,{\i1}Who are you? {\b1}-Jeonju Lee's family's{\i}
+Dialogue: 0,0:00:13.82,0:00:16.54,Default,,0,0,0,,{\i1}- Gun, fighting!\N- What is this!!!{\i}
+Dialogue: 0,0:00:17.79,0:00:19.48,Default,,0,0,0,,{\i1}- Who are you? \N- Jeonju Lee's family's{\i}
 Dialogue: 0,0:00:19.48,0:00:23.17,Default,,0,0,0,,{\i1}22nd generation's eldest grandson of the head family and the 9th only son, Lee Gun.{\i}
 Dialogue: 0,0:00:23.17,0:00:25.17,Default,,0,0,0,,{\i1}You're just a "post-it girl," just like your nickname.{\i}
 Dialogue: 0,0:00:25.17,0:00:28.50,Default,,0,0,0,,{\i1}All I wanted to do was, with all my heart,{\i}
@@ -39,7 +47,7 @@ Dialogue: 0,0:00:53.97,0:00:55.64,Default,,0,0,0,,{\i1}Miss Kim Mi Young!{\i}
 Dialogue: 0,0:00:55.64,0:00:59.46,Default,,0,0,0,,{\i1}Forget about last night's incident.{\i}
 Dialogue: 0,0:01:00.51,0:01:02.27,Default,,0,0,0,,{\i1}Of course, I should.{\i}
 Dialogue: 0,0:01:02.27,0:01:05.53,Default,,0,0,0,,{\i1}We aren't going to meet again, anyway.{\i}
-Dialogue: 0,0:01:08.60,0:01:10.15,Default,,0,0,0,,{\i1}Episode 3{\i}
+Dialogue: 0,0:01:08.31,0:01:10.05,Episode Text l1,,0,0,0,,{\fad(367,134)\i1\pos(633.6,463.6)}Episode {\i}
 Dialogue: 0,0:01:15.20,0:01:17.77,Default,,0,0,0,,It's all going to wrinkle.
 Dialogue: 0,0:01:20.79,0:01:22.33,Default,,0,0,0,,Unni!
 Dialogue: 0,0:01:22.33,0:01:25.05,Default,,0,0,0,,Again?
@@ -49,7 +57,7 @@ Dialogue: 0,0:01:30.08,0:01:32.54,Default,,0,0,0,,Then just don't go, or take aw
 Dialogue: 0,0:01:32.54,0:01:35.69,Default,,0,0,0,,Don't do one of the two, please!
 Dialogue: 0,0:01:35.69,0:01:38.41,Default,,0,0,0,,Not everyone can live perfectly.
 Dialogue: 0,0:01:38.41,0:01:40.82,Default,,0,0,0,,There should be people like me, too.
-Dialogue: 0,0:01:51.99,0:01:55.81,Default,,0,0,0,,What's going on that everyone is all outside, making a fuss?{\b1}Like gangsters.
+Dialogue: 0,0:01:51.99,0:01:54.92,Default,,0,0,0,,What's going on that everyone is all outside, making a fuss?\NLike gangsters.
 Dialogue: 0,0:02:03.44,0:02:05.32,Default,,0,0,0,,You came, President Lee Gun.
 Dialogue: 0,0:02:05.32,0:02:10.16,Default,,0,0,0,,It is an honor that you'll be working with our Daehyung Law Firm.
 Dialogue: 0,0:02:10.16,0:02:12.90,Default,,0,0,0,,There is no other reason for changing law firms.
@@ -66,7 +74,7 @@ Dialogue: 0,0:02:39.66,0:02:44.31,Default,,0,0,0,,When those jerks arrive, so th
 Dialogue: 0,0:02:44.31,0:02:47.12,Default,,0,0,0,,let's block them!
 Dialogue: 0,0:02:52.10,0:02:54.65,Default,,0,0,0,,{\i1}That Island keeps causing problems.{\i}
 Dialogue: 0,0:02:54.65,0:02:56.81,Default,,0,0,0,,{\i1}I need to go through the reorganization procedure,{\i}
-Dialogue: 0,0:02:56.81,0:03:01.08,Default,,0,0,0,,because I couldn't even go near the factory. I couldn't even come up with an estimate.
+Dialogue: 0,0:02:56.81,0:03:00.22,Default,,0,0,0,,{\i1}because I couldn't even go near the factory. I couldn't even come up with an estimate.{\i0}
 Dialogue: 0,0:03:01.08,0:03:02.97,Default,,0,0,0,,What kind of situation is this?
 Dialogue: 0,0:03:02.97,0:03:07.77,Default,,0,0,0,,This is why you need people like us.
 Dialogue: 0,0:03:07.77,0:03:09.75,Default,,0,0,0,,Is this the document from that time?
@@ -86,13 +94,12 @@ Dialogue: 0,0:04:09.04,0:04:12.96,Default,,0,0,0,,I have an appointment, so I'll
 Dialogue: 0,0:04:12.96,0:04:17.25,Default,,0,0,0,,And regarding branching out to China, I'll think a bit more about it.
 Dialogue: 0,0:04:28.70,0:04:30.75,Default,,0,0,0,,CEO?
 Dialogue: 0,0:04:37.45,0:04:41.45,Default,,0,0,0,,She said she worked at the same company as that trash.
-Dialogue: 0,0:04:54.97,0:05:05.06,Default,,0,0,0,,{\i1}Timing and Subtitles brought to you by the Fated Team @ Viki.{\i}
 Dialogue: 0,0:05:06.91,0:05:08.68,Default,,0,0,0,,Mi Young, get this done by 12 o'clock.
 Dialogue: 0,0:05:08.68,0:05:10.40,Default,,0,0,0,,Yes.
 Dialogue: 0,0:05:14.77,0:05:16.37,Default,,0,0,0,,Unni,
 Dialogue: 0,0:05:16.37,0:05:17.92,Default,,0,0,0,,give me one of those.
 Dialogue: 0,0:05:17.92,0:05:20.43,Default,,0,0,0,,My stomach is killing me.
-Dialogue: 0,0:05:29.04,0:05:30.67,Default,,0,0,0,,This damn magic... (referring to her period)
+Dialogue: 0,0:05:29.04,0:05:30.67,Default,,0,0,0,,This damn magic... \N{\i1}*referring to her period{\i0}
 Dialogue: 0,0:05:30.67,0:05:34.91,Default,,0,0,0,,isn't there some sort of magic that can make it come only once a year?
 Dialogue: 0,0:06:03.58,0:06:06.62,Default,,0,0,0,,Since the lady he was going to marry ran off to America,
 Dialogue: 0,0:06:06.62,0:06:09.96,Default,,0,0,0,,you can't even tell us to wait any longer.
@@ -139,8 +146,6 @@ Dialogue: 0,0:08:12.95,0:08:15.64,Default,,0,0,0,,Even a job?
 Dialogue: 0,0:08:15.64,0:08:17.62,Default,,0,0,0,,I didn't even think of that yet.
 Dialogue: 0,0:08:17.62,0:08:19.73,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:08:26.42,0:08:30.45,Default,,0,0,0,,{\i1}Self-diagnosing Pregnancy Test{\i}
-Dialogue: 0,0:08:30.45,0:08:32.65,Default,,0,0,0,,{\i1}Yes Yes {\i}
-Dialogue: 0,0:08:36.08,0:08:39.53,Default,,0,0,0,,{\i1}Yes Yes Yes Yes{\i}
 Dialogue: 0,0:08:42.43,0:08:43.60,Default,,0,0,0,,{\i1}Submit.{\i}
 Dialogue: 0,0:08:55.57,0:08:57.39,Default,,0,0,0,,It can't be.
 Dialogue: 0,0:08:57.39,0:09:00.92,Default,,0,0,0,,It's probably not it. It has to be no.
@@ -173,7 +178,7 @@ Dialogue: 0,0:10:45.86,0:10:49.78,Default,,0,0,0,,You know that you're finished 
 Dialogue: 0,0:10:57.30,0:11:00.18,Default,,0,0,0,,It's me, Gun.
 Dialogue: 0,0:11:00.30,0:11:01.40,Default,,0,0,0,,Does it hurt?
 Dialogue: 0,0:11:07.99,0:11:10.07,Default,,0,0,0,,Please spread the rumors.
-Dialogue: 0,0:11:10.07,0:11:15.53,Default,,0,0,0,,That I'm trying to seduce Miss Kim Mi Young, but no matter what I do, because she won't fall for it, that I'm about to die.
+Dialogue: 0,0:11:10.07,0:11:15.53,Default,,0,0,0,,That I'm trying to seduce Miss Kim Mi Young, but no matter \Nwhat I do, because she won't fall for it, that I'm about to die.
 Dialogue: 0,0:11:16.64,0:11:19.97,Default,,0,0,0,,Trash overseas is also trash here, too.
 Dialogue: 0,0:11:19.97,0:11:24.56,Default,,0,0,0,,Even that dirty and indecent spirit is still the same, huh?
 Dialogue: 0,0:11:25.59,0:11:29.81,Default,,0,0,0,,I will entrust consultation regarding branching out to China with this law firm.
@@ -183,7 +188,6 @@ Dialogue: 0,0:11:35.48,0:11:38.13,Default,,0,0,0,,fire him.
 Dialogue: 0,0:11:43.20,0:11:45.19,Default,,0,0,0,,Miss Kim Mi Young.
 Dialogue: 0,0:11:45.19,0:11:46.73,Default,,0,0,0,,Hello.
 Dialogue: 0,0:11:46.73,0:11:49.10,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:11:50.20,0:11:54.80,Default,,0,0,0,,{\i1}Timing and Subtitles brought to you by The Fated Team @ Viki{\i}
 Dialogue: 0,0:11:55.51,0:11:59.41,Default,,0,0,0,,Thanks for saving me back there.
 Dialogue: 0,0:12:02.43,0:12:05.43,Default,,0,0,0,,You were living like that all this time?
 Dialogue: 0,0:12:05.43,0:12:08.58,Default,,0,0,0,,After I transformed you into a Bond Girl...
@@ -194,22 +198,22 @@ Dialogue: 0,0:12:22.62,0:12:24.77,Default,,0,0,0,,It's a potbelly, right?
 Dialogue: 0,0:12:24.77,0:12:26.71,Default,,0,0,0,,Yes. Yes!
 Dialogue: 0,0:12:26.71,0:12:28.90,Default,,0,0,0,,Yes, it's a potbelly.
 Dialogue: 0,0:12:28.90,0:12:32.10,Default,,0,0,0,,This is what you call a potbelly. How did you know?
-Dialogue: 0,0:12:32.10,0:12:37.39,Default,,0,0,0,,Although my frame is petite, my growth of a potbelly was particularly different than others.
+Dialogue: 0,0:12:32.10,0:12:37.39,Default,,0,0,0,,Although my frame is petite, my growth of a\N potbelly was particularly different than others.
 Dialogue: 0,0:12:37.39,0:12:40.28,Default,,0,0,0,,You're very keen. Potbelly.
 Dialogue: 0,0:12:42.82,0:12:44.25,Default,,0,0,0,,{\i1}Dad!{\i}
 Dialogue: 0,0:12:44.75,0:12:46.33,Default,,0,0,0,,{\i1}Dad!{\i}
 Dialogue: 0,0:12:46.33,0:12:50.44,Default,,0,0,0,,Stay quiet! Who are you calling, Dad?
 Dialogue: 0,0:12:51.87,0:12:54.15,Default,,0,0,0,,{\i1} Dad!{\i}
 Dialogue: 0,0:12:55.31,0:12:57.37,Default,,0,0,0,,Shh! Be quiet.
-Dialogue: 0,0:12:57.37,0:13:00.01,Default,,0,0,0,,{\i1} Dad! {\b1} - Dad?{\i}
+Dialogue: 0,0:12:57.37,0:13:00.01,Default,,0,0,0,,{\i1} - Dad! \N - Dad?{\i}
 Dialogue: 0,0:13:00.01,0:13:02.20,Default,,0,0,0,,{\i1} Dad!{\i}
 Dialogue: 0,0:13:10.32,0:13:12.30,Default,,0,0,0,,This! This isn't a potbelly?
 Dialogue: 0,0:13:12.30,0:13:14.62,Default,,0,0,0,,It's a potbelly.
-Dialogue: 0,0:13:16.25,0:13:19.80,Default,,0,0,0,,It moved! There's a child in here! {\b1} - What do you mean it moved? Where?
+Dialogue: 0,0:13:16.25,0:13:19.80,Default,,0,0,0,,- It moved! There's a child in here! \N - What do you mean it moved? Where?
 Dialogue: 0,0:13:19.80,0:13:23.41,Default,,0,0,0,,This is my baby, isn't it? I'm right!
-Dialogue: 0,0:13:23.41,0:13:27.11,Default,,0,0,0,,Then I'm becoming a dad? {\b1} -No, it's not your baby.
+Dialogue: 0,0:13:23.41,0:13:27.11,Default,,0,0,0,,- Then I'm becoming a dad? \N - No, it's not your baby.
 Dialogue: 0,0:13:27.11,0:13:31.49,Default,,0,0,0,,Mi Young, please have this baby. You have to have it! Really!
-Dialogue: 0,0:13:31.49,0:13:35.62,Default,,0,0,0,,It's Dad, you rascal. Dad!{\b1}-Dad!
+Dialogue: 0,0:13:31.49,0:13:35.62,Default,,0,0,0,,- It's Dad, you rascal. Dad!\N- Dad!
 Dialogue: 0,0:13:36.79,0:13:42.74,Default,,0,0,0,,Please congratulate us! Our Kim Mi Young is having a baby!
 Dialogue: 0,0:13:47.34,0:13:50.27,Default,,0,0,0,,Why are you suddenly like that?
 Dialogue: 0,0:13:50.27,0:13:52.89,Default,,0,0,0,,Is something wrong?
@@ -229,7 +233,7 @@ Dialogue: 0,0:14:50.31,0:14:53.01,Default,,0,0,0,,Nine...
 Dialogue: 0,0:14:53.52,0:14:55.64,Default,,0,0,0,,Ready or not, here I come.
 Dialogue: 0,0:15:33.77,0:15:35.89,Default,,0,0,0,,Priest.
 Dialogue: 0,0:15:35.89,0:15:40.42,Default,,0,0,0,,Can I confess my sins even if I'm not a believer?
-Dialogue: 0,0:15:41.35,0:15:45.46,Default,,0,0,0,,Uh...well, you still sin even though you're not a believer.
+Dialogue: 0,0:15:41.35,0:15:45.46,Default,,0,0,0,,Uh... well, you still sin even though you're not a believer.
 Dialogue: 0,0:15:45.46,0:15:47.83,Default,,0,0,0,,I'm not a believer, so
 Dialogue: 0,0:15:47.83,0:15:51.84,Default,,0,0,0,,I don't exactly know how to do a confession. Will that be okay?
 Dialogue: 0,0:15:51.84,0:15:53.42,Default,,0,0,0,,Uh. Actually,
@@ -254,7 +258,7 @@ Dialogue: 0,0:17:09.62,0:17:12.05,Default,,0,0,0,,He has been hurt enough
 Dialogue: 0,0:17:12.05,0:17:16.40,Default,,0,0,0,,because of sleeping with me.
 Dialogue: 0,0:17:16.40,0:17:22.06,Default,,0,0,0,,It's okay for me to have a hard time alone. I don't want to do that to him, too.
 Dialogue: 0,0:17:25.72,0:17:29.64,Default,,0,0,0,,Then go and buy a pregnancy test at the pharmacy straight from here.
-Dialogue: 0,0:17:29.64,0:17:34.46,Default,,0,0,0,,After you find out if you are pregnant or not, make sure to discuss it with the baby's father.
+Dialogue: 0,0:17:29.64,0:17:34.46,Default,,0,0,0,,After you find out if you are pregnant or not,\N make sure to discuss it with the baby's father.
 Dialogue: 0,0:17:35.47,0:17:38.89,Default,,0,0,0,,Do I really have to discuss it with him?
 Dialogue: 0,0:17:38.89,0:17:43.68,Default,,0,0,0,,Of course. He is the baby's father. You have the duty and the right to do so.
 Dialogue: 0,0:17:43.68,0:17:48.75,Default,,0,0,0,,Even if it is hard and you don't want to, you have to do it. Okay?
@@ -264,24 +268,15 @@ Dialogue: 0,0:17:55.80,0:17:57.91,Default,,0,0,0,,Recently, there are electronic
 Dialogue: 0,0:17:57.91,0:18:02.54,Default,,0,0,0,,Priest, I think you know too well.
 Dialogue: 0,0:18:04.20,0:18:07.55,Default,,0,0,0,,Sister, this is common sense.
 Dialogue: 0,0:18:10.07,0:18:14.32,Default,,0,0,0,,Thank you Priest, for listening to me.
-Dialogue: 0,0:18:31.78,0:18:37.59,Default,,0,0,0,,{\b1}
 Dialogue: 0,0:18:37.70,0:18:39.90,Default,,0,0,0,,Hey!
 Dialogue: 0,0:18:43.27,0:18:45.45,Default,,0,0,0,,Cheer up!
 Dialogue: 0,0:18:51.25,0:18:53.77,Default,,0,0,0,,Bye.
-Dialogue: 0,0:18:57.41,0:19:04.95,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:04.95,0:19:10.52,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:10.52,0:19:17.78,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:17.78,0:19:23.41,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:23.41,0:19:30.21,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:30.21,0:19:36.56,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:36.56,0:19:43.14,Default,,0,0,0,,{\b1}
-Dialogue: 0,0:19:43.14,0:19:51.38,Default,,0,0,0,,{\b1}
 Dialogue: 0,0:19:54.55,0:19:58.58,Default,,0,0,0,,I came here because I heard that you were in the CEO's room.
 Dialogue: 0,0:20:07.26,0:20:10.38,Default,,0,0,0,,Don't call me Hyungnim at the company.
 Dialogue: 0,0:20:10.38,0:20:13.74,Default,,0,0,0,,Call me CEO, you unmannerly bastard.
 Dialogue: 0,0:20:13.74,0:20:16.57,Default,,0,0,0,,Ah... yes, Hyungnim...
 Dialogue: 0,0:20:16.57,0:20:18.76,Default,,0,0,0,,CEO.
-Dialogue: 0,0:20:18.76,0:20:23.94,Default,,0,0,0,,If you go to the public relations department, they will give you an assistant manager's desk, so start working today.
+Dialogue: 0,0:20:18.76,0:20:23.94,Default,,0,0,0,,If you go to the public relations department, they will give\N you an assistant manager's desk, so start working today.
 Dialogue: 0,0:20:24.60,0:20:26.48,Default,,0,0,0,,An assistant manager?
 Dialogue: 0,0:20:31.09,0:20:33.75,Default,,0,0,0,,Why? It's not to your liking?
 Dialogue: 0,0:20:33.75,0:20:35.16,Default,,0,0,0,,It's not that.
@@ -304,17 +299,17 @@ Dialogue: 0,0:22:27.75,0:22:30.34,Default,,0,0,0,,Huh? What is this?
 Dialogue: 0,0:22:30.34,0:22:34.81,Default,,0,0,0,,{\i1}And this is Miss Kim!{\i}
 Dialogue: 0,0:22:34.81,0:22:37.27,Default,,0,0,0,,This lady is...
 Dialogue: 0,0:22:37.27,0:22:42.67,Default,,0,0,0,,Even though it's been blurred out, it's not Lady Se Ra...
-Dialogue: 0,0:22:42.67,0:22:45.13,Default,,0,0,0,,I don't think it's her...Oh!
+Dialogue: 0,0:22:42.67,0:22:45.13,Default,,0,0,0,,I don't think it's her... Oh!
 Dialogue: 0,0:22:47.14,0:22:48.85,Default,,0,0,0,,Chief Park.
 Dialogue: 0,0:22:48.85,0:22:50.22,Default,,0,0,0,,Yes!
 Dialogue: 0,0:22:50.22,0:22:53.76,Default,,0,0,0,,What is Lawyer Hong's law firm number?
 Dialogue: 0,0:22:58.82,0:23:03.52,Default,,0,0,0,,As soon as I came out of that room, I took out the memory chip.
 Dialogue: 0,0:23:03.52,0:23:04.53,Default,,0,0,0,,Isn't it perfect?
 Dialogue: 0,0:23:04.53,0:23:06.85,Default,,0,0,0,,Then, you dropping it in the water was fake?
-Dialogue: 0,0:23:06.85,0:23:09.83,Default,,0,0,0,,Hamo Hamo. (Of course, in dialect) {\b1} -Wow, President Park!
+Dialogue: 0,0:23:06.85,0:23:09.83,Default,,0,0,0,,- Hamo Hamo. \N - Wow, President Park!
 Dialogue: 0,0:23:09.83,0:23:11.97,Default,,0,0,0,,That was the best plan in the world.
-Dialogue: 0,0:23:11.97,0:23:14.20,Default,,0,0,0,,You are better than I thought.
-Dialogue: 0,0:23:14.20,0:23:15.96,Default,,0,0,0,,Hamo Hamo! {\b1} -Hamo Hamo!
+Dialogue: 0,0:23:11.97,0:23:14.20,Default,,0,0,0,,- You are better than I thought. \N - Hamo Hamo!
+Dialogue: 0,0:23:14.20,0:23:15.96,Default,,0,0,0,,Hamo Hamo! 
 Dialogue: 0,0:23:15.96,0:23:21.55,Default,,0,0,0,,But because your sister-in-law's face was in it, I couldn't even tell anyone.
 Dialogue: 0,0:23:21.55,0:23:25.91,Default,,0,0,0,,I, for a whole month, painstakingly erased her face, bit by bit.
 Dialogue: 0,0:23:25.91,0:23:27.80,Default,,0,0,0,,Lost all my strength. Lost it.
@@ -327,12 +322,12 @@ Dialogue: 0,0:23:41.95,0:23:43.41,Default,,0,0,0,,It's tasty, right?
 Dialogue: 0,0:23:43.41,0:23:47.82,Default,,0,0,0,,Then, eat it deliciously and you can both drop dead.
 Dialogue: 0,0:23:48.66,0:23:51.27,Default,,0,0,0,,A customer that should have come isn't even coming...
 Dialogue: 0,0:23:52.59,0:23:58.06,Default,,0,0,0,,Did you see? The day my mother-in-law finds out, my sister-in-law is a dead person.
-Dialogue: 0,0:23:58.06,0:24:01.10,Default,,0,0,0,,I don't have a mouth.{\b1}-Yes.
+Dialogue: 0,0:23:58.06,0:24:01.10,Default,,0,0,0,,- I don't have a mouth.\N- Yes.
 Dialogue: 0,0:24:21.18,0:24:22.99,Default,,0,0,0,,Hello.
 Dialogue: 0,0:24:24.93,0:24:27.73,Default,,0,0,0,,USB.
 Dialogue: 0,0:24:27.73,0:24:30.13,Default,,0,0,0,,Call the CEO's Secretary, hurry.
 Dialogue: 0,0:24:30.13,0:24:32.02,Default,,0,0,0,,Hello.
-Dialogue: 0,0:24:32.02,0:24:36.37,Default,,0,0,0,,They are not picking up? {\b1} -What do you mean they are not picking up?
+Dialogue: 0,0:24:32.02,0:24:36.37,Default,,0,0,0,,- They are not picking up? \N - What do you mean they are not picking up?
 Dialogue: 0,0:25:24.48,0:25:28.16,Default,,0,0,0,,CEO? Whew, wait...
 Dialogue: 0,0:25:28.16,0:25:31.30,Default,,0,0,0,,I'm the person who ran up from the stairs.
 Dialogue: 0,0:25:34.22,0:25:35.91,Default,,0,0,0,,Safe!
@@ -340,14 +335,14 @@ Dialogue: 0,0:25:38.12,0:25:39.59,Default,,0,0,0,,Does this make sense?
 Dialogue: 0,0:25:39.59,0:25:42.16,Default,,0,0,0,,I even forgave them for doing something so low.
 Dialogue: 0,0:25:42.16,0:25:44.56,Default,,0,0,0,,How can he stab someone's back in this manner?
 Dialogue: 0,0:25:44.56,0:25:46.82,Default,,0,0,0,,Illegal protest, threats... I'm going to stick all of them in jail!
-Dialogue: 0,0:25:46.82,0:25:51.83,Default,,0,0,0,,Feed them beans with rice (prison), receive compensation for damages... I'm going to stick all of them in! All of them!
+Dialogue: 0,0:25:46.82,0:25:51.83,Default,,0,0,0,,Feed them beans with rice, receive compensation for damages... \NI'm going to stick all of them in! All of them!
 Dialogue: 0,0:25:53.05,0:25:57.31,Default,,0,0,0,,But, who is this woman?
 Dialogue: 0,0:25:58.92,0:26:01.98,Default,,0,0,0,,I don't really know. It's my first time seeing her.
 Dialogue: 0,0:26:09.49,0:26:14.60,Default,,0,0,0,,That's right. That Kim Mi Young took vacation days, so she isn't here.
 Dialogue: 0,0:26:14.60,0:26:18.09,Default,,0,0,0,,Why are you telling me? Did I ask?
 Dialogue: 0,0:26:18.09,0:26:20.61,Default,,0,0,0,,Ah, yes.
 Dialogue: 0,0:26:20.61,0:26:24.89,Default,,0,0,0,,But this woman, did they put her in the room?
-Dialogue: 0,0:26:24.89,0:26:29.12,Default,,0,0,0,,I don't know, I don't know! {\b1} How many times do I have to tell you?!
+Dialogue: 0,0:26:24.89,0:26:29.12,Default,,0,0,0,,I don't know, I don't know! \N How many times do I have to tell you?!
 Dialogue: 0,0:26:29.12,0:26:34.40,Default,,0,0,0,,If we commission a professional, we can probably undo the woman's face.
 Dialogue: 0,0:26:34.40,0:26:38.12,Default,,0,0,0,,To tell you the truth, we can win the trial and put them in prison.
 Dialogue: 0,0:26:38.12,0:26:39.88,Default,,0,0,0,,We have grounds for damage compensation.
@@ -364,12 +359,11 @@ Dialogue: 0,0:27:08.94,0:27:11.25,Default,,0,0,0,,Does this make sense?!
 Dialogue: 0,0:27:11.25,0:27:12.95,Default,,0,0,0,,Just do what I say.
 Dialogue: 0,0:27:12.95,0:27:16.11,Default,,0,0,0,,If the lawsuit progresses, I'll get an attorney fee, so it'll be good for me.
 Dialogue: 0,0:27:16.11,0:27:19.00,Default,,0,0,0,,It's for the sake of Jangin Chemical.
-Dialogue: 0,0:27:19.86,0:27:23.23,Default,,0,0,0,,Go to Yeoul Island and meet with the representatives. {\b1}Both sides should compromise.
+Dialogue: 0,0:27:19.86,0:27:23.23,Default,,0,0,0,,Go to Yeoul Island and meet with the representatives. \NBoth sides should compromise.
 Dialogue: 0,0:27:23.23,0:27:26.04,Default,,0,0,0,,That will benefit you.
-Dialogue: 0,0:27:30.08,0:27:37.03,Default,,0,0,0,,{\i1}Subtitles brought to you by the Fated Team @Viki.{\i}
 Dialogue: 0,0:27:48.17,0:27:51.43,Default,,0,0,0,,Must tell Mother.
 Dialogue: 0,0:27:51.43,0:27:53.36,Default,,0,0,0,,Not tell her.
-Dialogue: 0,0:27:53.36,0:27:57.78,Default,,0,0,0,,Must tell her. {\b1} No, yes, no yes, no...yes, no
+Dialogue: 0,0:27:53.36,0:27:57.78,Default,,0,0,0,,Must tell her. \N No, yes, no yes, no... yes, no,
 Dialogue: 0,0:27:57.78,0:28:02.04,Default,,0,0,0,,yes, no...yes.
 Dialogue: 0,0:28:04.55,0:28:06.56,Default,,0,0,0,,No.
 Dialogue: 0,0:28:07.44,0:28:13.53,Default,,0,0,0,,If Mom knows this truth, she's going to break both of my legs.
@@ -403,7 +397,7 @@ Dialogue: 0,0:30:18.95,0:30:21.47,Default,,0,0,0,,How have you been?
 Dialogue: 0,0:30:25.19,0:30:26.82,Default,,0,0,0,,Ah!
 Dialogue: 0,0:30:28.93,0:30:31.76,Default,,0,0,0,,How could you eat so well?
 Dialogue: 0,0:30:31.76,0:30:33.92,Default,,0,0,0,,You are eating similar to me.
-Dialogue: 0,0:30:33.92,0:30:38.42,Default,,0,0,0,,Let's just say I eat well since I'm pregnant. {\b1} Wow, you eat well.
+Dialogue: 0,0:30:33.92,0:30:38.42,Default,,0,0,0,,Let's just say I eat well since I'm pregnant. \N Wow, you eat well.
 Dialogue: 0,0:30:39.24,0:30:43.55,Default,,0,0,0,,Because Mom's food is the best in this world.
 Dialogue: 0,0:30:43.55,0:30:47.32,Default,,0,0,0,,You're right. You know I have killer hands for cooking.
 Dialogue: 0,0:30:47.32,0:30:51.69,Default,,0,0,0,,Aigoo, if you get it with that hand, then it's just right to die today.
@@ -413,7 +407,7 @@ Dialogue: 0,0:30:59.16,0:31:03.15,Default,,0,0,0,,There are a lot of cool men th
 Dialogue: 0,0:31:03.15,0:31:07.41,Default,,0,0,0,,Your sister has been on this island for over 40 years looking at the same men,
 Dialogue: 0,0:31:07.41,0:31:10.29,Default,,0,0,0,,my eyes haven't gotten upgraded.
 Dialogue: 0,0:31:10.29,0:31:15.67,Default,,0,0,0,,Look, look. My eyes are simmering... simmering out of boredom!
-Dialogue: 0,0:31:15.67,0:31:19.95,Default,,0,0,0,,Why are you taking out a year? {\b1} You were married and went to live in Seoul for a year.
+Dialogue: 0,0:31:15.67,0:31:19.95,Default,,0,0,0,,Why are you taking out a year? \N You were married and went to live in Seoul for a year.
 Dialogue: 0,0:31:19.95,0:31:25.07,Default,,0,0,0,,I would be happy even if I have to see my honey for ten thousand years!
 Dialogue: 0,0:31:25.07,0:31:28.24,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:31:28.24,0:31:30.74,Default,,0,0,0,,And if you're married, you should stay at your house.
@@ -430,9 +424,9 @@ Dialogue: 0,0:32:25.23,0:32:26.73,Default,,0,0,0,,Boss!
 Dialogue: 0,0:32:27.90,0:32:29.66,Default,,0,0,0,,Boss!
 Dialogue: 0,0:32:29.66,0:32:32.27,Default,,0,0,0,,Boss! Are you okay?
 Dialogue: 0,0:32:33.60,0:32:36.73,Default,,0,0,0,,Blood! It's bleeding!
-Dialogue: 0,0:32:36.73,0:32:39.20,Default,,0,0,0,,Nose bleed! (sounds like coffee)
+Dialogue: 0,0:32:36.73,0:32:39.20,Default,,0,0,0,,- Nose bleed! \N*sounds like coffee \N - Oh, coffee.
 Dialogue: 0,0:32:39.20,0:32:41.25,Default,,0,0,0,,I've put a lot of syrup in it.
-Dialogue: 0,0:32:41.25,0:32:45.85,Default,,0,0,0,,You used to drink only black. {\b1} Why do you keep asking for sweets lately?
+Dialogue: 0,0:32:41.25,0:32:45.85,Default,,0,0,0,,You used to drink only black. \N Why do you keep asking for sweets lately?
 Dialogue: 0,0:32:45.85,0:32:48.69,Default,,0,0,0,,My nose is bleeding! Nose bleed! Give me napkins!
 Dialogue: 0,0:32:48.69,0:32:50.63,Default,,0,0,0,,Napkin...
 Dialogue: 0,0:32:50.63,0:32:53.67,Default,,0,0,0,,Napkin.
@@ -446,7 +440,7 @@ Dialogue: 0,0:33:18.63,0:33:20.07,Default,,0,0,0,,Okay.
 Dialogue: 0,0:33:24.78,0:33:26.40,Default,,0,0,0,,{\i1}Oppa, it's me.{\i}
 Dialogue: 0,0:33:27.42,0:33:30.01,Default,,0,0,0,,{\i1}Are you still really mad at me?{\i}
 Dialogue: 0,0:33:33.04,0:33:35.17,Default,,0,0,0,,{\i1}Are you doing well?{\i}
-Dialogue: 0,0:33:35.83,0:33:40.32,Default,,0,0,0,,{\i1}I know you're doing this to punish me. {\b1} I'll receive the punishment.{\i}
+Dialogue: 0,0:33:35.83,0:33:40.32,Default,,0,0,0,,{\i1}I know you're doing this to punish me. \N I'll receive the punishment.{\i}
 Dialogue: 0,0:33:41.27,0:33:44.64,Default,,0,0,0,,{\i1}In return, don't be sad by yourself.{\i}
 Dialogue: 0,0:33:45.31,0:33:48.55,Default,,0,0,0,,{\i1}Just like you've waited for me, I can wait, too.{\i}
 Dialogue: 0,0:33:50.23,0:33:55.43,Default,,0,0,0,,{\i1}But can't I listen to your voice just once?{\i}
@@ -461,10 +455,10 @@ Dialogue: 0,0:34:49.74,0:34:52.10,Default,,0,0,0,,no matter what I say,
 Dialogue: 0,0:34:52.10,0:34:55.26,Default,,0,0,0,,don't get too shocked.
 Dialogue: 0,0:35:12.89,0:35:19.96,Default,,0,0,0,,{\i1} Mother of 3 Daughters Restaurant {\i}
 Dialogue: 0,0:35:24.76,0:35:28.96,Default,,0,0,0,,Unni! What are you doing there and not sleeping?
-Dialogue: 0,0:35:28.96,0:35:31.87,Default,,0,0,0,,I'm exercising under the moon.{\b1}(Something people laugh at in Korea)
+Dialogue: 0,0:35:28.96,0:35:31.87,Default,,0,0,0,,I'm exercising under the moon.\N(Something people laugh at in Korea)
 Dialogue: 0,0:35:31.87,0:35:33.86,Default,,0,0,0,,Are you not sleepy either?
 Dialogue: 0,0:35:34.67,0:35:38.75,Default,,0,0,0,,What did I tell you? You can't sleep with Mom, can you?
-Dialogue: 0,0:35:45.99,0:35:47.44,Default,,0,0,0,,{\b1}
+Dialogue: 0,0:35:45.99,0:35:47.44,Default,,0,0,0,,\N
 Dialogue: 0,0:35:47.44,0:35:49.06,Default,,0,0,0,,Is it that good?
 Dialogue: 0,0:35:50.09,0:35:51.93,Default,,0,0,0,,Didn't you just stretch to digest your food?
 Dialogue: 0,0:35:51.93,0:35:54.69,Default,,0,0,0,,Since I've digested it, it's now time to eat.
@@ -482,7 +476,7 @@ Dialogue: 0,0:36:32.38,0:36:36.72,Default,,0,0,0,,That's when the hCG pregnancy 
 Dialogue: 0,0:36:36.72,0:36:39.15,Default,,0,0,0,,So it's the most accurate.
 Dialogue: 0,0:36:41.32,0:36:45.11,Default,,0,0,0,,But why do you ask?
 Dialogue: 0,0:36:46.04,0:36:49.77,Default,,0,0,0,,My friend asked. Eat some more.
-Dialogue: 0,0:36:54.00,0:36:57.52,Default,,0,0,0,,Maybe it's because it's an island. {\b1}The morning breeze feels cool.
+Dialogue: 0,0:36:54.00,0:36:57.52,Default,,0,0,0,,Maybe it's because it's an island. \NThe morning breeze feels cool.
 Dialogue: 0,0:36:57.52,0:36:59.50,Default,,0,0,0,,The air is refreshing, too.
 Dialogue: 0,0:36:59.50,0:37:03.70,Default,,0,0,0,,Refreshing? It's frustrating because of the salty smell.
 Dialogue: 0,0:37:03.70,0:37:06.06,Default,,0,0,0,,CEO, since you came to negotiate anyways,
@@ -506,13 +500,13 @@ Dialogue: 0,0:38:20.37,0:38:24.02,Default,,0,0,0,,Because you might be too shock
 Dialogue: 0,0:38:28.13,0:38:30.46,Default,,0,0,0,,What is this?
 Dialogue: 0,0:38:35.38,0:38:38.26,Default,,0,0,0,,There are two lines. That means you're pregnant.
 Dialogue: 0,0:38:39.11,0:38:41.17,Default,,0,0,0,,What? Pregnant?
-Dialogue: 0,0:38:41.98,0:38:46.01,Default,,0,0,0,,Who? {\b1}-Pregnant? Who?
+Dialogue: 0,0:38:41.98,0:38:46.01,Default,,0,0,0,,Who? \N-Pregnant? Who?
 Dialogue: 0,0:38:52.54,0:38:56.17,Default,,0,0,0,,Is that why you asked me about the pregnancy test last night?
 Dialogue: 0,0:38:56.17,0:38:59.96,Default,,0,0,0,,It's not your friend, but you, right? It's you who's pregnant, aren't you?
 Dialogue: 0,0:38:59.96,0:39:02.53,Default,,0,0,0,,Is what Mi Ja saying true? It's not, right?
 Dialogue: 0,0:39:02.53,0:39:05.10,Default,,0,0,0,,I heard wrong, didn't I?
 Dialogue: 0,0:39:05.10,0:39:08.99,Default,,0,0,0,,Mom, I was going to tell you right as soon as I came, but-
-Dialogue: 0,0:39:08.99,0:39:11.02,Default,,0,0,0,,Mom.{\b1}-You wench!
+Dialogue: 0,0:39:08.99,0:39:11.02,Default,,0,0,0,,Mom.\N-You wench!
 Dialogue: 0,0:39:14.25,0:39:16.21,Default,,0,0,0,,Mom, stop it!
 Dialogue: 0,0:39:16.21,0:39:19.46,Default,,0,0,0,,You're going to hurt her!
 Dialogue: 0,0:39:19.46,0:39:23.96,Default,,0,0,0,,Say it. Who is it? The one who made you like this?
@@ -522,7 +516,7 @@ Dialogue: 0,0:39:28.96,0:39:32.69,Default,,0,0,0,,Mom! I'm sorry.
 Dialogue: 0,0:39:33.84,0:39:37.64,Default,,0,0,0,,Did you go to Seoul to recklessly roll your body around like that? (sleep around)
 Dialogue: 0,0:39:37.64,0:39:40.06,Default,,0,0,0,,If you don't say it right now, who the baby's dad is,
 Dialogue: 0,0:39:40.06,0:39:43.09,Default,,0,0,0,,you're really going to die in my hands!
-Dialogue: 0,0:39:44.21,0:39:47.32,Default,,0,0,0,,He's dead. {\b1} -What? He's dead?
+Dialogue: 0,0:39:44.21,0:39:47.32,Default,,0,0,0,,He's dead. \N -What? He's dead?
 Dialogue: 0,0:39:47.32,0:39:49.04,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:39:49.04,0:39:53.18,Default,,0,0,0,,No, he couldn't be dead.
 Dialogue: 0,0:39:53.18,0:39:56.88,Default,,0,0,0,,If he was, you couldn't have eaten the lettuce wrap so deliciously!
@@ -550,7 +544,7 @@ Dialogue: 0,0:40:57.94,0:40:59.50,Default,,0,0,0,,It's all my fault!
 Dialogue: 0,0:40:59.50,0:41:03.72,Default,,0,0,0,,Aigoo... aigoo, this retarded idiot!
 Dialogue: 0,0:41:03.72,0:41:06.39,Default,,0,0,0,,You get fooled by some bastard and after sleeping with him,
 Dialogue: 0,0:41:06.39,0:41:08.13,Default,,0,0,0,,are you protecting him right now?!
-Dialogue: 0,0:41:08.13,0:41:12.74,Default,,0,0,0,,Imagine how much she fell for him to do this.{\b1}-Oh crap. What's happening here?
+Dialogue: 0,0:41:08.13,0:41:12.74,Default,,0,0,0,,Imagine how much she fell for him to do this.\N-Oh crap. What's happening here?
 Dialogue: 0,0:41:12.74,0:41:16.96,Default,,0,0,0,,You idiot, idiot! You put in too much stimulant!
 Dialogue: 0,0:41:16.96,0:41:19.62,Default,,0,0,0,,You get up right now! Let's go to Seoul!
 Dialogue: 0,0:41:19.62,0:41:21.82,Default,,0,0,0,,Mom! Mom...
@@ -561,8 +555,8 @@ Dialogue: 0,0:41:28.74,0:41:31.90,Default,,0,0,0,,When you have a baby inside yo
 Dialogue: 0,0:41:31.90,0:41:34.39,Default,,0,0,0,,Aigoo! Aigoo, my rotten fate!
 Dialogue: 0,0:41:34.39,0:41:39.09,Default,,0,0,0,,There are 4 women in the household, but 3 of us don't have a mate! Why is it so crappy?
 Dialogue: 0,0:41:39.09,0:41:42.58,Default,,0,0,0,,Let's all just jump into the ocean and die together!
-Dialogue: 0,0:41:42.58,0:41:44.77,Default,,0,0,0,,Let's go. Let's just die.{\b1} -I'm sorry.
-Dialogue: 0,0:41:44.77,0:41:46.73,Default,,0,0,0,,What's the point of living?{\b1}-Mom!
+Dialogue: 0,0:41:42.58,0:41:44.77,Default,,0,0,0,,Let's go. Let's just die.\N -I'm sorry.
+Dialogue: 0,0:41:44.77,0:41:46.73,Default,,0,0,0,,What's the point of living?\N-Mom!
 Dialogue: 0,0:41:46.73,0:41:50.09,Default,,0,0,0,,Mother-in-law! Mother-in-law! Mother-in-law!
 Dialogue: 0,0:41:50.09,0:41:51.74,Default,,0,0,0,,I...
 Dialogue: 0,0:41:51.74,0:41:55.31,Default,,0,0,0,,I know... who the baby's dad is.
@@ -582,10 +576,10 @@ Dialogue: 0,0:42:49.12,0:42:53.99,Default,,0,0,0,,and try to talk frankly in our
 Dialogue: 0,0:42:53.99,0:42:57.99,Default,,0,0,0,,That was a great speech.
 Dialogue: 0,0:42:58.64,0:43:03.12,Default,,0,0,0,,Talk about the anchovy lettuce wrap… lettuce wrap with anchovies. (It comes with lettuce, rice, and seasoned anchovies)
 Dialogue: 0,0:43:03.12,0:43:08.48,Default,,0,0,0,,Ah, also, I heard that the most famous and delicious dish on this island is
-Dialogue: 0,0:43:08.48,0:43:10.38,Default,,0,0,0,,lettuce wrap anchovy!{\b1}(he's saying it backwards)
+Dialogue: 0,0:43:08.48,0:43:10.38,Default,,0,0,0,,lettuce wrap anchovy!\N(he's saying it backwards)
 Dialogue: 0,0:43:10.38,0:43:13.81,Default,,0,0,0,,I like it, too! Lettuce wrap anchovy!
 Dialogue: 0,0:43:13.81,0:43:16.17,Default,,0,0,0,,Lettuce wrap anchovy, I really like it!
-Dialogue: 0,0:43:16.17,0:43:17.79,Default,,0,0,0,,Really?{\b1}-Yes, I like it.
+Dialogue: 0,0:43:16.17,0:43:17.79,Default,,0,0,0,,Really?\N-Yes, I like it.
 Dialogue: 0,0:43:17.79,0:43:21.19,Default,,0,0,0,,Wow, how did you know!? In Yeoul Island, it's anchovy lettuce wrap-
 Dialogue: 0,0:43:21.19,0:43:26.09,Default,,0,0,0,,No-no-no, it's lettuce wrap anchovy!
 Dialogue: 0,0:43:27.02,0:43:30.50,Default,,0,0,0,,Lettuce wrap anchovy!
@@ -595,10 +589,10 @@ Dialogue: 0,0:43:35.12,0:43:39.62,Default,,0,0,0,,In our island, we call even th
 Dialogue: 0,0:43:39.62,0:43:41.61,Default,,0,0,0,,"Mother, anchovy-" no-no,
 Dialogue: 0,0:43:41.61,0:43:45.15,Default,,0,0,0,,"Please give me lettuce wrap anchovy, please!" Then you'll get an enormous amount of food.
 Dialogue: 0,0:43:45.15,0:43:50.58,Default,,0,0,0,,Your tongue has to gather up in an "S" shape, and say, "Mo~ther." Try it. "Mo~ther."
-Dialogue: 0,0:43:50.58,0:43:54.67,Default,,0,0,0,,Mother.{\b1}-Aigoo! That's awkward. "Mo~ther".
-Dialogue: 0,0:43:56.25,0:43:59.50,Default,,0,0,0,,Mo~ther.{\b1}-Aigoo! You're good.
+Dialogue: 0,0:43:50.58,0:43:54.67,Default,,0,0,0,,Mother.\N-Aigoo! That's awkward. "Mo~ther".
+Dialogue: 0,0:43:56.25,0:43:59.50,Default,,0,0,0,,Mo~ther.\N-Aigoo! You're good.
 Dialogue: 0,0:43:59.50,0:44:01.66,Default,,0,0,0,,Mo~ther.
-Dialogue: 0,0:44:01.66,0:44:03.78,Default,,0,0,0,,Mo~ther!{\b1}-That was good!
+Dialogue: 0,0:44:01.66,0:44:03.78,Default,,0,0,0,,Mo~ther!\N-That was good!
 Dialogue: 0,0:44:04.56,0:44:07.07,Default,,0,0,0,,Mo~ther! That was good!
 Dialogue: 0,0:44:07.97,0:44:10.91,Default,,0,0,0,,Lettuce wrap anchovy!
 Dialogue: 0,0:44:10.91,0:44:13.85,Default,,0,0,0,,Lettuce, lettuce, lettuce wrap anchovy!
@@ -606,13 +600,13 @@ Dialogue: 0,0:44:13.85,0:44:15.23,Default,,0,0,0,,Mom! Mom!
 Dialogue: 0,0:44:15.23,0:44:17.29,Default,,0,0,0,,Are you really not going to follow me?
 Dialogue: 0,0:44:17.29,0:44:21.00,Default,,0,0,0,,Do you think I will let that bastard be just because you won't budge from here?
 Dialogue: 0,0:44:21.00,0:44:23.34,Default,,0,0,0,,I told you, it's not that person's fault.
-Dialogue: 0,0:44:23.34,0:44:26.09,Default,,0,0,0,,Come here!{\b1}-Mom!
+Dialogue: 0,0:44:23.34,0:44:26.09,Default,,0,0,0,,Come here!\N-Mom!
 Dialogue: 0,0:44:27.80,0:44:30.59,Default,,0,0,0,,We're here. We've arrived.
 Dialogue: 0,0:44:30.59,0:44:32.63,Default,,0,0,0,,She's our mother and the restaurant ahjumma!
-Dialogue: 0,0:44:32.63,0:44:35.75,Default,,0,0,0,,Mother, Mother.{\b1}-Mother?
+Dialogue: 0,0:44:32.63,0:44:35.75,Default,,0,0,0,,Mother, Mother.\N-Mother?
 Dialogue: 0,0:44:35.75,0:44:38.62,Default,,0,0,0,,Mo~ther!
 Dialogue: 0,0:44:39.64,0:44:45.64,Default,,0,0,0,,Please give me a l~ot of lettuce wrap!
-Dialogue: 0,0:44:48.65,0:44:50.43,Default,,0,0,0,,{\b1}
+Dialogue: 0,0:44:48.65,0:44:50.43,Default,,0,0,0,,\N
 Dialogue: 0,0:44:56.40,0:44:58.16,Default,,0,0,0,,Oh, wait, wait.
 Dialogue: 0,0:44:58.16,0:45:01.33,Default,,0,0,0,,Kim Mi Young... Kim Mi Young, what are you doing here?
 Dialogue: 0,0:45:02.62,0:45:05.05,Default,,0,0,0,,Kim Mi Young...
@@ -646,7 +640,7 @@ Dialogue: 0,0:46:36.32,0:46:40.05,Default,,0,0,0,,Mom, I already told you this p
 Dialogue: 0,0:46:40.05,0:46:44.79,Default,,0,0,0,,You, because you did the "stand" with my daughter...
 Dialogue: 0,0:46:44.79,0:46:49.72,Default,,0,0,0,,Mom, one-night stand!
 Dialogue: 0,0:46:49.72,0:46:53.20,Default,,0,0,0,,With my daughter, because you did that "stand",
-Dialogue: 0,0:46:53.20,0:46:56.29,Default,,0,0,0,,my daughter is now-{\b1}-Mom!
+Dialogue: 0,0:46:53.20,0:46:56.29,Default,,0,0,0,,my daughter is now-\N-Mom!
 Dialogue: 0,0:46:56.29,0:47:01.21,Default,,0,0,0,,Please do me a favor. Don't say it. I'll... I'll just take care of it.
 Dialogue: 0,0:47:01.21,0:47:02.73,Default,,0,0,0,,This person did nothing wrong.
 Dialogue: 0,0:47:02.73,0:47:05.43,Default,,0,0,0,,It all happened because of my mistake.
@@ -659,12 +653,12 @@ Dialogue: 0,0:47:28.31,0:47:30.91,Default,,0,0,0,,You say it. Now!
 Dialogue: 0,0:47:30.91,0:47:32.80,Default,,0,0,0,,Now.
 Dialogue: 0,0:47:38.30,0:47:43.36,Default,,0,0,0,,The thing is... I... your...
 Dialogue: 0,0:47:43.36,0:47:46.89,Default,,0,0,0,,You're what? Just say it comfortably. It's okay.
-Dialogue: 0,0:47:46.89,0:47:50.68,Default,,0,0,0,,As if this is your house, I'm okay because I can accept it. {\b1}So tell me.
-Dialogue: 0,0:47:50.68,0:47:53.50,Default,,0,0,0,,Your...{\b1}-"Your" what?
+Dialogue: 0,0:47:46.89,0:47:50.68,Default,,0,0,0,,As if this is your house, I'm okay because I can accept it. \NSo tell me.
+Dialogue: 0,0:47:50.68,0:47:53.50,Default,,0,0,0,,Your...\N-"Your" what?
 Dialogue: 0,0:47:55.45,0:47:57.67,Default,,0,0,0,,Ah... "your" what? "Your" what?!
 Dialogue: 0,0:47:57.67,0:48:00.09,Default,,0,0,0,,I'm pregnant with your child.
 Dialogue: 0,0:48:00.09,0:48:02.19,Default,,0,0,0,,What is she saying right now?
-Dialogue: 0,0:48:02.19,0:48:04.98,Default,,0,0,0,,{\b1}
+Dialogue: 0,0:48:02.19,0:48:04.98,Default,,0,0,0,,\N
 Dialogue: 0,0:48:04.98,0:48:06.24,Default,,0,0,0,,Isn't that something good?
 Dialogue: 0,0:48:06.24,0:48:07.89,Default,,0,0,0,,It's your child though.
 Dialogue: 0,0:48:07.89,0:48:10.02,Default,,0,0,0,,It's my child then, right?
@@ -672,7 +666,7 @@ Dialogue: 0,0:48:12.71,0:48:16.22,Default,,0,0,0,,Baby... baby...
 Dialogue: 0,0:48:16.22,0:48:17.95,Default,,0,0,0,,My...my...
 Dialogue: 0,0:48:17.95,0:48:21.13,Default,,0,0,0,,WHOA!!
 Dialogue: 0,0:48:21.13,0:48:24.92,Default,,0,0,0,,I'm sorry. What to do... I'm sorry.
-Dialogue: 0,0:48:24.92,0:48:29.74,Default,,0,0,0,,Why are you sorry? You retarded idiot! {\b1}This is why I have to step up!
+Dialogue: 0,0:48:24.92,0:48:29.74,Default,,0,0,0,,Why are you sorry? You retarded idiot! \NThis is why I have to step up!
 Dialogue: 0,0:48:29.74,0:48:32.49,Default,,0,0,0,,I understand how you feel, but
 Dialogue: 0,0:48:32.49,0:48:35.17,Default,,0,0,0,,right now, we're in the middle of negotiations.
 Dialogue: 0,0:48:35.17,0:48:37.20,Default,,0,0,0,,The CEO has to be here to keep moving forward.
@@ -699,12 +693,12 @@ Dialogue: 0,0:49:30.84,0:49:33.50,Default,,0,0,0,,All right, Lee Gun!
 Dialogue: 0,0:49:33.50,0:49:36.68,Default,,0,0,0,,We still have a lot to talk about, right?
 Dialogue: 0,0:49:37.47,0:49:40.32,Default,,0,0,0,,Yes. That's right. We do have a lot to talk about.
 Dialogue: 0,0:49:40.32,0:49:42.62,Default,,0,0,0,,Follow me.
-Dialogue: 0,0:49:42.62,0:49:44.43,Default,,0,0,0,,Mother!{\b1}-Ma'am!
+Dialogue: 0,0:49:42.62,0:49:44.43,Default,,0,0,0,,Mother!\N-Ma'am!
 Dialogue: 0,0:49:44.43,0:49:45.69,Default,,0,0,0,,What is a one-night stand?
 Dialogue: 0,0:49:45.69,0:49:47.03,Default,,0,0,0,,Hurry up and order the food.
 Dialogue: 0,0:49:47.03,0:49:48.98,Default,,0,0,0,,Ah, stand...
 Dialogue: 0,0:49:48.98,0:49:58.52,Default,,0,0,0,,{\i1}Timing and Subtitles brought to you by The Fated Team @ Viki{\i}
-Dialogue: 0,0:49:58.52,0:50:01.06,Default,,0,0,0,,Can you talk right now?{\b1}-Yes, it's okay. Please continue.
+Dialogue: 0,0:49:58.52,0:50:01.06,Default,,0,0,0,,Can you talk right now?\N-Yes, it's okay. Please continue.
 Dialogue: 0,0:50:01.06,0:50:03.85,Default,,0,0,0,,As expected, the basic personal data matches up.
 Dialogue: 0,0:50:03.85,0:50:07.05,Default,,0,0,0,,As of right now, the probability of this person being your sister is the highest.
 Dialogue: 0,0:50:07.95,0:50:11.04,Default,,0,0,0,,You just have to wait for the results of the DNA test.
@@ -732,7 +726,7 @@ Dialogue: 0,0:51:13.84,0:51:16.31,Default,,0,0,0,,That handsome person I see.
 Dialogue: 0,0:51:17.74,0:51:20.18,Default,,0,0,0,,Mom, Mom!
 Dialogue: 0,0:51:20.61,0:51:24.03,Default,,0,0,0,,There is a visitor. Even by a glance, his looks are about the same level as mine.
 Dialogue: 0,0:51:24.03,0:51:26.61,Default,,0,0,0,,He is tall too. Do you know who he is?
-Dialogue: 0,0:51:31.25,0:51:34.13,Default,,0,0,0,,Name: Daniel Pitt {\b1}Age: 32
+Dialogue: 0,0:51:31.25,0:51:34.13,Default,,0,0,0,,Name: Daniel Pitt \NAge: 32
 Dialogue: 0,0:51:34.13,0:51:36.53,Default,,0,0,0,,A global designer who's being called the second Philippe Starck in the industry.
 Dialogue: 0,0:51:36.53,0:51:39.30,Default,,0,0,0,,Never tells outsiders about coming into Korea, and refrains from public events.
 Dialogue: 0,0:51:39.30,0:51:41.26,Default,,0,0,0,,He has revived a dead company with his designs.
@@ -853,9 +847,9 @@ Dialogue: 0,0:58:49.05,0:58:51.61,Default,,0,0,0,,How can I sleep here? It is sm
 Dialogue: 0,0:58:51.61,0:58:54.90,Default,,0,0,0,,Where? It smells fresh.
 Dialogue: 0,0:58:54.90,0:58:57.37,Default,,0,0,0,,It's homey and nice.
 Dialogue: 0,0:58:57.37,0:58:59.46,Default,,0,0,0,,Ow!
-Dialogue: 0,0:58:59.52,0:59:02.06,Default,,0,0,0,,Come in. {\b1}-I can't sleep here!
+Dialogue: 0,0:58:59.52,0:59:02.06,Default,,0,0,0,,Come in. \N-I can't sleep here!
 Dialogue: 0,0:59:02.06,0:59:04.89,Default,,0,0,0,,I can't sleep here!
-Dialogue: 0,0:59:04.89,0:59:06.86,Default,,0,0,0,,{\b1}
+Dialogue: 0,0:59:04.89,0:59:06.86,Default,,0,0,0,,\N
 Dialogue: 0,0:59:09.06,0:59:10.89,Default,,0,0,0,,What is happening?
 Dialogue: 0,0:59:10.89,0:59:13.06,Default,,0,0,0,,What is this sound?
 Dialogue: 0,0:59:13.59,0:59:14.79,Default,,0,0,0,,She locked the door!
@@ -864,7 +858,7 @@ Dialogue: 0,0:59:18.68,0:59:19.76,Default,,0,0,0,,Open the door!
 Dialogue: 0,0:59:19.76,0:59:21.68,Default,,0,0,0,,Open!
 Dialogue: 0,0:59:21.68,0:59:24.48,Default,,0,0,0,,Ahjumma, just hit me like earlier instead.
 Dialogue: 0,0:59:24.48,0:59:27.46,Default,,0,0,0,,Please open the door!
-Dialogue: 0,0:59:28.58,0:59:35.91,Default,,0,0,0,,{\i1}Timing and Subtitles brought to you by {\b1} The Fated Team @ VIKI{\i}
+Dialogue: 0,0:59:28.58,0:59:35.91,Default,,0,0,0,,{\i1}Timing and Subtitles brought to you by \N The Fated Team @ VIKI{\i}
 Dialogue: 0,0:59:40.16,0:59:42.43,Default,,0,0,0,,{\i1}Fated to Love You{\i\b1}~ Preview ~
 Dialogue: 0,0:59:42.43,0:59:45.32,Default,,0,0,0,,{\i1}I think that we should go to the hospital tomorrow. {\i}
 Dialogue: 0,0:59:45.32,0:59:48.94,Default,,0,0,0,,{\i1}I made a selfish decision, but I hope that you'd follow me.{\i}
@@ -876,6 +870,6 @@ Dialogue: 0,0:59:59.10,1:00:00.53,Default,,0,0,0,,{\i1} They're all the same. {\
 Dialogue: 0,1:00:00.53,1:00:04.00,Default,,0,0,0,,{\i1}So will you pray with me? {\i}
 Dialogue: 0,1:00:04.00,1:00:07.64,Default,,0,0,0,,{\i1}If we met under nice circumstances,{\i}
 Dialogue: 0,1:00:07.64,1:00:09.43,Default,,0,0,0,,{\i1}I'm sure we would call this "fate".{\i}
-Dialogue: 0,1:00:09.43,1:00:11.54,Default,,0,0,0,,{\b1}
+Dialogue: 0,1:00:09.43,1:00:11.54,Default,,0,0,0,,\N
 Dialogue: 0,1:00:11.54,1:00:13.71,Default,,0,0,0,,{\i1}I got married.{\i}
 Dialogue: 0,1:00:13.71,1:00:16.65,Default,,0,0,0,,{\i1}I got married!{\i}
