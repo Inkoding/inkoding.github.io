@@ -6,30 +6,28 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-Aegisub Video Zoom Percent: 0.625000
+Aegisub Video Zoom Percent: 1.000000
 Aegisub Scroll Position: 0
-Aegisub Active Line: 3
+Aegisub Active Line: 0
 PlayResX: 1280
 PlayResY: 720
-Last Style Storage: Default
-Audio URI: Fated to Love You - 01.avi
-Video File: Fated to Love You - 01.avi
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 1555
+Last Style Storage: Fated to Love You
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,1.5,2,10,10,35,1
 Style: Slight Stylelized Fated to Love You,Alexis Marie,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 Style: Song,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: Undercontrustion stlye,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Episode Text l2,Tequilla Sunrise,53,&H00DFB9F8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
+Style: Episode Text l1,Tequilla Sunrise,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
+Style: con,BigNoodleTitling,50,&H00000000,&H000000FF,&H00D2D2D2,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.00,Default,,0,0,0,,{\i1}Subtitles Brought To You By The Fated Team @ Viki{\i}
 Dialogue: 0,0:00:49.77,0:00:51.64,Default,,0,0,0,,- What is this?\N- Cut.
 Dialogue: 0,0:00:51.64,0:00:53.02,Default,,0,0,0,,Unni, why?
-Dialogue: 0,0:00:51.86,0:00:53.53,Default,,0,0,0,,{\pos(638.4,442.8)}Episode 1 [need style]
+Dialogue: 0,0:00:51.86,0:00:53.50,Episode Text l1,,0,0,0,,{\fad(434,124)\pos(646.4,462)}Episode
 Dialogue: 0,0:00:53.02,0:00:55.35,Default,,0,0,0,,Hyeri, what's the matter?
 Dialogue: 0,0:00:57.09,0:00:58.51,Default,,0,0,0,,Where is Manager Do?
 Dialogue: 0,0:00:58.51,0:01:00.91,Default,,0,0,0,,Oh Noona, I'm here.
@@ -368,7 +366,41 @@ Dialogue: 0,0:28:08.96,0:28:11.93,Default,,0,0,0,,She is a fast woman!
 Dialogue: 0,0:28:12.62,0:28:14.56,Default,,0,0,0,,No...
 Dialogue: 0,0:28:14.56,0:28:18.41,Default,,0,0,0,,Let's go together...
 Dialogue: 0,0:28:18.41,0:28:21.45,Default,,0,0,0,,Let's go together...
-Dialogue: 0,0:28:30.40,0:28:31.53,Undercontrustion stlye,,0,0,0,,{\i1\pos(1240,92.4)}Under construction {\i}
+Comment: 0,0:28:30.40,0:28:31.53,con,,0,0,0,,{\pos(1222.4,94)}Under construction
+Dialogue: 0,0:28:30.40,0:28:30.43,con,,0,0,0,,{\fscx100\fscy100\frz0\bord2\pos(1222.4,94)}Under construction
+Dialogue: 0,0:28:30.43,0:28:30.46,con,,0,0,0,,{\fscx99.95\fscy99.95\frz-0.12\bord2\pos(1188.94,111.72)}Under construction
+Dialogue: 0,0:28:30.46,0:28:30.50,con,,0,0,0,,{\fscx99.74\fscy99.74\frz-0.07\bord1.99\pos(1155.03,130.63)}Under construction
+Dialogue: 0,0:28:30.50,0:28:30.53,con,,0,0,0,,{\fscx99.75\fscy99.75\frz-0.1\bord1.99\pos(1121.29,149.47)}Under construction
+Dialogue: 0,0:28:30.53,0:28:30.56,con,,0,0,0,,{\fscx99.56\fscy99.56\frz-0.14\bord1.99\pos(1087.82,169.06)}Under construction
+Dialogue: 0,0:28:30.56,0:28:30.60,con,,0,0,0,,{\fscx99.43\fscy99.43\frz-0.03\bord1.99\pos(1055.09,188.84)}Under construction
+Dialogue: 0,0:28:30.60,0:28:30.63,con,,0,0,0,,{\fscx99.35\fscy99.35\frz-0.02\bord1.99\pos(1023.29,208.71)}Under construction
+Dialogue: 0,0:28:30.63,0:28:30.66,con,,0,0,0,,{\fscx99.3\fscy99.3\frz-0.12\bord1.99\pos(992.5,229.38)}Under construction
+Dialogue: 0,0:28:30.66,0:28:30.70,con,,0,0,0,,{\fscx99.21\fscy99.21\frz-0.09\bord1.98\pos(960.8,250.31)}Under construction
+Dialogue: 0,0:28:30.70,0:28:30.73,con,,0,0,0,,{\fscx99.1\fscy99.1\frz-0.09\bord1.98\pos(929.66,271.18)}Under construction
+Dialogue: 0,0:28:30.73,0:28:30.76,con,,0,0,0,,{\fscx98.99\fscy98.99\frz-0.15\bord1.98\pos(901.22,291.97)}Under construction
+Dialogue: 0,0:28:30.76,0:28:30.80,con,,0,0,0,,{\fscx99.08\fscy99.08\frz-0.15\bord1.98\pos(876.05,312)}Under construction
+Dialogue: 0,0:28:30.80,0:28:30.83,con,,0,0,0,,{\fscx99.12\fscy99.12\frz-0.15\bord1.98\pos(852.76,330.68)}Under construction
+Dialogue: 0,0:28:30.83,0:28:30.86,con,,0,0,0,,{\fscx99.26\fscy99.26\frz-0.16\bord1.99\pos(831.5,347.13)}Under construction
+Dialogue: 0,0:28:30.86,0:28:30.90,con,,0,0,0,,{\fscx99.2\fscy99.2\frz-0.12\bord1.98\pos(812.01,361.45)}Under construction
+Dialogue: 0,0:28:30.90,0:28:30.93,con,,0,0,0,,{\fscx99.32\fscy99.32\frz-0.14\bord1.99\pos(795.51,373.72)}Under construction
+Dialogue: 0,0:28:30.93,0:28:30.96,con,,0,0,0,,{\fscx99.36\fscy99.36\frz-0.13\bord1.99\pos(781.04,384.23)}Under construction
+Dialogue: 0,0:28:30.96,0:28:31.00,con,,0,0,0,,{\fscx99.42\fscy99.42\frz-0.2\bord1.99\pos(769.03,392.35)}Under construction
+Dialogue: 0,0:28:31.00,0:28:31.03,con,,0,0,0,,{\fscx99.44\fscy99.44\frz-0.18\bord1.99\pos(758.26,398.91)}Under construction
+Dialogue: 0,0:28:31.03,0:28:31.06,con,,0,0,0,,{\fscx99.42\fscy99.42\frz-0.21\bord1.99\pos(749.1,404.3)}Under construction
+Dialogue: 0,0:28:31.06,0:28:31.10,con,,0,0,0,,{\fscx99.42\fscy99.42\frz-0.2\bord1.99\pos(741.23,408.52)}Under construction
+Dialogue: 0,0:28:31.10,0:28:31.13,con,,0,0,0,,{\fscx99.45\fscy99.45\frz-0.2\bord1.99\pos(734.47,411.58)}Under construction
+Dialogue: 0,0:28:31.13,0:28:31.16,con,,0,0,0,,{\fscx99.39\fscy99.39\frz-0.16\bord1.99\pos(728.6,414.01)}Under construction
+Dialogue: 0,0:28:31.16,0:28:31.20,con,,0,0,0,,{\fscx99.43\fscy99.43\frz-0.16\bord1.99\pos(723.77,415.97)}Under construction
+Dialogue: 0,0:28:31.20,0:28:31.23,con,,0,0,0,,{\fscx99.35\fscy99.35\frz-0.14\bord1.99\pos(719.06,418.04)}Under construction
+Dialogue: 0,0:28:31.23,0:28:31.26,con,,0,0,0,,{\fscx99.33\fscy99.33\frz-0.1\bord1.99\pos(713.94,420.34)}Under construction
+Dialogue: 0,0:28:31.26,0:28:31.30,con,,0,0,0,,{\fscx99.27\fscy99.27\frz-0.11\bord1.99\pos(709.23,422.59)}Under construction
+Dialogue: 0,0:28:31.30,0:28:31.33,con,,0,0,0,,{\fscx99.27\fscy99.27\frz-0.09\bord1.99\pos(705.89,424.51)}Under construction
+Dialogue: 0,0:28:31.33,0:28:31.36,con,,0,0,0,,{\fscx99.21\fscy99.21\frz-0.1\bord1.98\pos(704.37,426)}Under construction
+Dialogue: 0,0:28:31.36,0:28:31.40,con,,0,0,0,,{\fscx99.22\fscy99.22\frz-0.06\bord1.98\pos(703.58,426.57)}Under construction
+Dialogue: 0,0:28:31.40,0:28:31.43,con,,0,0,0,,{\fscx99.19\fscy99.19\frz-0.04\bord1.98\pos(703.22,426.84)}Under construction
+Dialogue: 0,0:28:31.43,0:28:31.46,con,,0,0,0,,{\fscx99.2\fscy99.2\frz-0.01\bord1.98\pos(702.74,427.04)}Under construction
+Dialogue: 0,0:28:31.46,0:28:31.50,con,,0,0,0,,{\fscx99.15\fscy99.15\frz0.01\bord1.98\pos(702.63,426.96)}Under construction
+Dialogue: 0,0:28:31.50,0:28:31.53,con,,0,0,0,,{\fscx99.21\fscy99.21\frz-0.02\bord1.98\pos(702.76,426.87)}Under construction
 Dialogue: 0,0:28:45.28,0:28:47.86,Default,,0,0,0,,What should I do!
 Dialogue: 0,0:28:56.02,0:29:00.33,Default,,0,0,0,,No!
 Dialogue: 0,0:29:00.33,0:29:02.66,Default,,0,0,0,,What should I do?
