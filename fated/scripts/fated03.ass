@@ -6,16 +6,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-Aegisub Video Zoom Percent: 0.625000
+Aegisub Video Zoom Percent: 1.000000
 Aegisub Scroll Position: 0
 Aegisub Active Line: 0
 PlayResX: 1280
 PlayResY: 720
-Last Style Storage: Fated to Love You
-Audio URI: ../../../../Desktop/Project K/Fated to Love You/Ep 3/fated03.avi
-Video File: ../../../../Desktop/Project K/Fated to Love You/Ep 3/fated03.avi
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 177
+Last Style Storage: Default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
